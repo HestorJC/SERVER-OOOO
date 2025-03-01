@@ -122,3 +122,110 @@
 [01Mar2025 05:04:42.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Diamonds!]
 [01Mar2025 05:04:57.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
 [01Mar2025 05:08:19.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 05:10:57.765] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 05:11:27.099] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 05:11:47.263] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 05:11:47.264] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 05:11:52.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Fishy Business]
+[01Mar2025 05:12:42.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement ['X' Marks the Spot]
+[01Mar2025 05:15:52.315] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/263, l='ServerLevel[world]', x=245.70, y=52.00, z=283.54] died, message: 'Mason was slain by Zombie'
+[01Mar2025 05:16:05.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[01Mar2025 05:16:05.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[01Mar2025 05:16:10.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=110, z=879} BlockPos{x=653, y=109, z=880}
+[01Mar2025 05:16:10.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=110, z=879} BlockPos{x=653, y=109, z=880}
+[01Mar2025 05:16:10.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=110, z=879} BlockPos{x=653, y=109, z=880}
+[01Mar2025 05:16:10.902] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=653, y=110, z=879} BlockPos{x=653, y=109, z=880}
+[01Mar2025 05:16:10.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=654, y=111, z=880} BlockPos{x=653, y=109, z=880}
+[01Mar2025 05:16:11.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=654, y=111, z=881} BlockPos{x=653, y=109, z=880}
+[01Mar2025 05:16:45.410] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[01Mar2025 05:18:59.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Mine? Mine? Mine?]
+[01Mar2025 05:20:32.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Suit Up]
+[01Mar2025 05:20:59.478] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@650b6b5[id=<null>,name=HestorJC,properties={},legacy=false] (/127.160.228.191:54879) lost connection: Disconnected
+[01Mar2025 05:21:26.669] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51efba58[id=<null>,name=HestorJC,properties={},legacy=false] (/127.160.228.191:46749) lost connection: Disconnected
+[01Mar2025 05:21:30.329] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:49787] logged in with entity id 16013 at (-84.69999998807907, 65.0, 252.88058328514424)
+[01Mar2025 05:21:30.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[01Mar2025 05:22:18.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [We Just Want our Hat Back]
+[01Mar2025 05:22:41.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[01Mar2025 05:22:46.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [We Just Want our Hat Back]
+[01Mar2025 05:23:32.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: adriii__ lost connection: Disconnected
+[01Mar2025 05:23:32.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ left the game
+[01Mar2025 05:23:56.818] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@26a678f8[id=<null>,name=adriii__,properties={},legacy=false] (/127.234.151.195:43953) lost connection: Disconnected
+[01Mar2025 05:24:08.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[01Mar2025 05:24:08.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[01Mar2025 05:24:28.970] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@586c4416[id=<null>,name=adriii__,properties={},legacy=false] (/127.234.151.195:40217) lost connection: Disconnected
+[01Mar2025 05:24:57.417] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@37f32593[id=<null>,name=adriii__,properties={},legacy=false] (/127.234.151.195:51669) lost connection: Disconnected
+[01Mar2025 05:24:59.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:51067] logged in with entity id 18772 at (219.09170884075772, 63.0, 195.85449581168183)
+[01Mar2025 05:24:59.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[01Mar2025 05:25:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx was slain by Ice Dragon
+[01Mar2025 05:25:32.117] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6a65a8af[id=<null>,name=adriii__,properties={},legacy=false] (/127.234.151.195:53821) lost connection: Disconnected
+[01Mar2025 05:25:50.828] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: adriii__[/127.234.151.195:34049] logged in with entity id 19318 at (-178.8797803234828, -38.10438090778544, 484.6550590934265)
+[01Mar2025 05:25:50.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ joined the game
+[01Mar2025 05:25:52.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ fell from a high place
+[01Mar2025 05:26:41.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Barrel Booty]
+[01Mar2025 05:27:08.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Barrel Booty]
+[01Mar2025 05:29:03.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[01Mar2025 05:29:30.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported adriii__ to HestorJC]
+[01Mar2025 05:30:14.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Barrel Booty]
+[01Mar2025 05:32:08.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asd
+[01Mar2025 05:32:18.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ was turned to ice by Ice Dragon
+[01Mar2025 05:32:51.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported adriii__ to HestorJC]
+[01Mar2025 05:32:51.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: adriii__ moved too quickly! 600.566816773728,-26.0,1046.9317276143715
+[01Mar2025 05:32:55.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
+[01Mar2025 05:33:33.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ was frozen by Ice Dragon
+[01Mar2025 05:33:39.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-7, y=90, z=-13}
+[01Mar2025 05:33:39.924] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-8, y=90, z=-13}
+[01Mar2025 05:33:40.226] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-9, y=90, z=-13}
+[01Mar2025 05:33:49.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported adriii__ to HestorJC]
+[01Mar2025 05:34:28.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to HestorJC]
+[01Mar2025 05:34:33.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Diamonds!]
+[01Mar2025 05:34:50.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny was turned to ice by Ice Dragon
+[01Mar2025 05:35:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC was turned to ice by Ice Dragon
+[01Mar2025 05:35:54.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
+[01Mar2025 05:36:06.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 05:36:12.735] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 05:36:47.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ was slain by Zombie
+[01Mar2025 05:36:58.816] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 05:37:07.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC was frozen by Ice Dragon
+[01Mar2025 05:37:14.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[01Mar2025 05:37:33.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made theJoJonny a server operator
+[01Mar2025 05:37:41.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made adriii__ a server operator
+[01Mar2025 05:37:49.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Gabsterzx a server operator
+[01Mar2025 05:38:03.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
+[01Mar2025 05:38:11.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ was slain by HestorJC
+[01Mar2025 05:38:15.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
+[01Mar2025 05:38:29.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <adriii__> ./tp
+[01Mar2025 05:39:03.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported HestorJC to theJoJonny]
+[01Mar2025 05:40:08.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
+[01Mar2025 05:40:11.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Disme A Dozen]
+[01Mar2025 05:40:23.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 05:41:18.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny moved too quickly! -4.522982418814081,0.0,-9.135779532585047
+[01Mar2025 05:41:51.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
+[01Mar2025 05:43:02.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: adriii__ lost connection: Disconnected
+[01Mar2025 05:43:02.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ left the game
+[01Mar2025 05:43:41.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 236.500000, 80.000000, 338.500000]
+[01Mar2025 05:44:34.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC hit the ground too hard
+[01Mar2025 05:45:48.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[01Mar2025 05:45:52.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[01Mar2025 05:46:11.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Disme A Dozen]
+[01Mar2025 05:46:27.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 05:46:59.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[01Mar2025 05:48:37.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Barrel Booty]
+[01Mar2025 05:48:37.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Disme A Dozen]
+[01Mar2025 05:50:14.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 05:53:34.959] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 05:53:38.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to HestorJC]
+[01Mar2025 05:55:28.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 05:56:43.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 05:58:18.688] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=740, y=72, z=901} BlockPos{x=739, y=71, z=901}
+[01Mar2025 05:59:14.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 05:59:25.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 06:00:36.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Close Quarters]
+[01Mar2025 06:01:27.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Close Quarters]
+[01Mar2025 06:03:03.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Who You Gonna Call?]
+[01Mar2025 06:03:50.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Who You Gonna Call?]
+[01Mar2025 06:04:50.262] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 06:06:20.699] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 06:06:20.699] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 06:06:57.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Diamonds!]
+[01Mar2025 06:08:53.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Close Quarters]
+[01Mar2025 06:09:19.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Diamonds!]
