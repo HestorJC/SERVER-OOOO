@@ -4485,3 +4485,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Mar2025 08:09:22.579] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 08:09:22.585] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Mar2025 08:09:24.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['Glem the Construct'/134529, l='ServerLevel[world]', x=8178.05, y=73.00, z=3050.61] died: Glem the Construct was shot by Gabsterzx
+[01Mar2025 08:11:21.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 08:12:56.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has completed the challenge [Centennial]
+[01Mar2025 08:14:22.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:14:22.587] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:17:36.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
+[01Mar2025 08:17:41.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[01Mar2025 08:19:13.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Pic-A-Nic Basket?]
+[01Mar2025 08:19:22.582] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:19:22.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:20:47.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
