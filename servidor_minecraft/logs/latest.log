@@ -94,3 +94,15 @@
 [01Mar2025 00:33:58.120] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [01Mar2025 00:42:44.504] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:41899] logged in with entity id 172 at (-49.5, 65.0, -39.5)
 [01Mar2025 00:42:44.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[01Mar2025 00:44:38.480] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:54689] logged in with entity id 812 at (-54.5, 66.0, -40.5)
+[01Mar2025 00:44:38.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[01Mar2025 00:45:08.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[01Mar2025 00:45:08.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[01Mar2025 00:45:38.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:44559] logged in with entity id 1054 at (-54.5, 66.0, -40.5)
+[01Mar2025 00:45:38.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[01Mar2025 00:46:30.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asdf
+[01Mar2025 00:46:33.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asd
+[01Mar2025 00:46:35.279] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[01Mar2025 00:46:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[01Mar2025 00:46:38.576] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Disconnected
+[01Mar2025 00:46:38.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
