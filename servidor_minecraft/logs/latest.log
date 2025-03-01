@@ -289,3 +289,58 @@
 [01Mar2025 06:48:50.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
 [01Mar2025 06:49:20.623] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
 [01Mar2025 06:49:20.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[01Mar2025 06:50:04.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:34991] logged in with entity id 76515 at (3461.5662178171583, 54.0, 1001.6024939047022)
+[01Mar2025 06:50:04.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[01Mar2025 06:50:16.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 06:54:04.977] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5102, y=67, z=853} BlockPos{x=5103, y=65, z=853}
+[01Mar2025 06:54:05.028] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5102, y=67, z=853} BlockPos{x=5103, y=65, z=853}
+[01Mar2025 06:54:08.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5124, y=68, z=847} BlockPos{x=5125, y=66, z=847}
+[01Mar2025 06:54:38.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5170, y=72, z=852} BlockPos{x=5170, y=70, z=852}
+[01Mar2025 06:54:38.686] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5170, y=72, z=852} BlockPos{x=5170, y=70, z=852}
+[01Mar2025 06:54:38.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5171, y=72, z=852} BlockPos{x=5170, y=70, z=852}
+[01Mar2025 06:54:38.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5171, y=72, z=852} BlockPos{x=5170, y=70, z=852}
+[01Mar2025 06:55:02.188] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[01Mar2025 06:55:41.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny was slain by Dread Ghoul
+[01Mar2025 06:55:57.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 06:57:57.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported HestorJC to theJoJonny]
+[01Mar2025 06:58:06.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 06:58:36.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to Gabsterzx]
+[01Mar2025 06:59:00.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny drowned
+[01Mar2025 06:59:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 06:59:04.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[01Mar2025 06:59:04.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[01Mar2025 06:59:06.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> af
+[01Mar2025 06:59:23.084] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:39089] logged in with entity id 81855 at (5177.176145519215, 68.0, 947.4937723821381)
+[01Mar2025 06:59:23.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[01Mar2025 06:59:29.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:00:16.477] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 07:01:22.864] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 07:01:31.575] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 07:03:34.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to HestorJC]
+[01Mar2025 07:05:29.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 07:05:32.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx was slain by Zombie
+[01Mar2025 07:06:12.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:13:38.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Free Willy]
+[01Mar2025 07:13:38.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Best Friends Forever]
+[01Mar2025 07:13:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Free Willy]
+[01Mar2025 07:13:51.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Best Friends Forever]
+[01Mar2025 07:13:54.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported HestorJC to theJoJonny]
+[01Mar2025 07:15:47.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Penteconter]
+[01Mar2025 07:17:00.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 07:17:43.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:19:50.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny was incinerated by Fire Dragon
+[01Mar2025 07:19:51.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:20:03.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:20:11.839] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 07:21:06.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 07:22:46.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:23:06.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Cover Me with Diamonds]
+[01Mar2025 07:23:41.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Penteconter]
+[01Mar2025 07:24:04.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:24:34.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 07:26:08.053] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 07:26:30.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:28:28.637] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/108275, l='ServerLevel[world]', x=5791.43, y=72.00, z=1918.31] died: Corvin the Rotten was slain by HestorJC
+[01Mar2025 07:28:29.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has completed the challenge [Serious Dedication]
+[01Mar2025 07:28:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> sad
+[01Mar2025 07:30:11.102] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin

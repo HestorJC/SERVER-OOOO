@@ -27,6 +27,7 @@
       "minecraft:dark_forest": "2025-03-01 06:28:18 +0000",
       "minecraft:sparse_jungle": "2025-03-01 06:46:22 +0000",
       "minecraft:river": "2025-03-01 04:31:27 +0000",
+      "minecraft:lukewarm_ocean": "2025-03-01 06:51:10 +0000",
       "minecraft:stony_shore": "2025-03-01 04:20:32 +0000",
       "minecraft:dripstone_caves": "2025-03-01 05:46:52 +0000",
       "minecraft:grove": "2025-03-01 06:23:04 +0000",
@@ -36,9 +37,11 @@
       "minecraft:jungle": "2025-03-01 06:43:55 +0000",
       "minecraft:ocean": "2025-03-01 06:30:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-01 05:11:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-03-01 06:51:38 +0000",
       "minecraft:frozen_peaks": "2025-03-01 04:07:20 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-01 06:38:14 +0000",
       "minecraft:meadow": "2025-03-01 04:42:44 +0000",
+      "minecraft:savanna": "2025-03-01 07:19:22 +0000",
       "minecraft:plains": "2025-03-01 03:51:35 +0000"
     },
     "done": false
@@ -522,6 +525,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-03-01 04:05:10 +0000",
+      "sweet_berries": "2025-03-01 06:57:20 +0000",
       "bread": "2025-03-01 04:24:33 +0000",
       "cooked_chicken": "2025-03-01 04:21:08 +0000"
     },
@@ -1272,6 +1276,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-01 07:29:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-03-01 05:34:33 +0000"
@@ -1326,9 +1336,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-03-01 07:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-03-01 06:35:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
     },
     "done": true
   },
@@ -1362,6 +1396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-03-01 06:29:09 +0000"
@@ -1392,6 +1432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-03-01 05:35:53 +0000"
@@ -1413,6 +1459,18 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-03-01 05:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
     },
     "done": true
   },
@@ -1476,9 +1534,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-03-01 06:22:08 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/iron_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-03-01 07:06:15 +0000"
     },
     "done": true
   },
@@ -1488,9 +1558,21 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-01 07:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-03-01 05:10:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-01 06:55:43 +0000"
     },
     "done": true
   },
@@ -1515,6 +1597,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-03-01 04:53:31 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-03-01 07:23:41 +0000"
     },
     "done": true
   },
@@ -1560,6 +1648,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/tame_hippocampus": {
+    "criteria": {
+      "tame_rat": "2025-03-01 07:13:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-03-01 05:35:53 +0000"
@@ -1584,6 +1678,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-03-01 07:22:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-03-01 04:54:28 +0000"
@@ -1599,6 +1699,12 @@
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-03-01 04:53:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/obtain_netherite_hoe": {
+    "criteria": {
+      "netherite_hoe": "2025-03-01 07:28:29 +0000"
     },
     "done": true
   },
