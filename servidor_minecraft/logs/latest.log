@@ -392,3 +392,16 @@
 [01Mar2025 07:59:43.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has completed the challenge [Centennial]
 [01Mar2025 08:00:38.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has completed the challenge [Centennial]
 [01Mar2025 08:00:39.258] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 08:01:09.381] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 08:03:05.690] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 08:03:05.690] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 08:03:05.690] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 08:03:05.690] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 08:03:05.690] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 08:03:07.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 08:03:58.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[01Mar2025 08:04:13.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Cover Me with Diamonds]
+[01Mar2025 08:04:33.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Cover Me with Diamonds]
+[01Mar2025 08:08:48.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Take Aim]
+[01Mar2025 08:09:11.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Ol' Betsy]
+[01Mar2025 08:09:24.114] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity IronGolem['Glem the Construct'/134529, l='ServerLevel[world]', x=8178.05, y=73.00, z=3050.61] died: Glem the Construct was shot by Gabsterzx
