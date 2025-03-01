@@ -21,13 +21,23 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-03-01 05:13:55 +0000",
       "minecraft:taiga": "2025-03-01 05:07:02 +0000",
+      "minecraft:birch_forest": "2025-03-01 06:23:52 +0000",
+      "minecraft:bamboo_jungle": "2025-03-01 06:41:37 +0000",
+      "minecraft:beach": "2025-03-01 06:30:19 +0000",
+      "minecraft:dark_forest": "2025-03-01 06:28:18 +0000",
+      "minecraft:sparse_jungle": "2025-03-01 06:46:22 +0000",
       "minecraft:river": "2025-03-01 04:31:27 +0000",
       "minecraft:stony_shore": "2025-03-01 04:20:32 +0000",
       "minecraft:dripstone_caves": "2025-03-01 05:46:52 +0000",
+      "minecraft:grove": "2025-03-01 06:23:04 +0000",
+      "minecraft:jagged_peaks": "2025-03-01 06:22:51 +0000",
       "minecraft:cold_ocean": "2025-03-01 04:22:19 +0000",
       "minecraft:forest": "2025-03-01 04:32:45 +0000",
+      "minecraft:jungle": "2025-03-01 06:43:55 +0000",
+      "minecraft:ocean": "2025-03-01 06:30:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-01 05:11:51 +0000",
       "minecraft:frozen_peaks": "2025-03-01 04:07:20 +0000",
+      "minecraft:old_growth_birch_forest": "2025-03-01 06:38:14 +0000",
       "minecraft:meadow": "2025-03-01 04:42:44 +0000",
       "minecraft:plains": "2025-03-01 03:51:35 +0000"
     },
@@ -1232,15 +1242,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-03-01 06:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2025-03-01 05:10:05 +0000"
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-03-01 06:44:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-03-01 05:34:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-03-01 06:35:31 +0000"
     },
     "done": true
   },
@@ -1298,6 +1326,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-01 06:35:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-03-01 05:34:33 +0000"
@@ -1328,9 +1362,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-03-01 06:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_banner": {
     "criteria": {
       "has_black_wool": "2025-03-01 05:16:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-03-01 06:27:58 +0000"
     },
     "done": true
   },
@@ -1406,6 +1452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-03-01 06:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-03-01 04:51:03 +0000"
@@ -1421,6 +1473,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-01 05:16:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-03-01 06:22:08 +0000"
     },
     "done": true
   },
@@ -1532,6 +1590,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-03-01 06:29:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-03-01 04:53:31 +0000"
@@ -1568,9 +1632,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 06:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-03-01 05:10:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 06:43:11 +0000"
     },
     "done": true
   },
@@ -1598,6 +1674,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 06:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-03-01 06:22:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-03-01 05:53:44 +0000"
@@ -1613,6 +1701,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-03-01 04:54:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-03-01 06:22:08 +0000"
     },
     "done": true
   },
