@@ -344,3 +344,51 @@
 [01Mar2025 07:28:29.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has completed the challenge [Serious Dedication]
 [01Mar2025 07:28:52.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> sad
 [01Mar2025 07:30:11.102] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 07:30:56.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to HestorJC]
+[01Mar2025 07:31:30.927] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 07:33:13.465] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 07:33:13.465] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 07:34:46.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> a
+[01Mar2025 07:35:08.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/109060, l='ServerLevel[world]', x=6004.28, y=117.00, z=1854.29] died: Corvin the Rotten was slain by theJoJonny
+[01Mar2025 07:35:09.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has completed the challenge [Serious Dedication]
+[01Mar2025 07:37:07.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 07:37:27.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:40:36.363] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:40:36.363] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:40:36.364] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:40:36.364] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:40:36.364] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:41:42.181] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 07:45:01.163] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
+[01Mar2025 07:47:10.222] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 07:47:35.168] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 07:47:56.189] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 07:47:56.189] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 07:48:45.408] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 07:48:49.770] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:48:49.770] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:48:49.770] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:48:49.771] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:48:49.771] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[01Mar2025 07:49:47.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 07:50:22.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> sad
+[01Mar2025 07:51:22.021] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[01Mar2025 07:51:24.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:51:40.717] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Disconnected
+[01Mar2025 07:51:40.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[01Mar2025 07:53:14.661] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27664619[id=<null>,name=theJoJonny,properties={},legacy=false] (/127.107.54.166:53155) lost connection: Disconnected
+[01Mar2025 07:53:32.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:39031] logged in with entity id 128414 at (7584.749557684856, 63.1212968405392, 2462.526740366399)
+[01Mar2025 07:53:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[01Mar2025 07:54:11.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:54:36.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7505, y=53, z=2729} BlockPos{x=7505, y=52, z=2729}
+[01Mar2025 07:54:36.230] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=7505, y=53, z=2729} BlockPos{x=7505, y=52, z=2729}
+[01Mar2025 07:55:46.837] [Worker-Main-2/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/129859, l='ServerLevel[world]', x=7392.50, y=39.00, z=2977.50] as it would cause deadlock
+[01Mar2025 07:56:23.824] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 07:56:23.824] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 07:56:47.132] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.5928837795268009
+[01Mar2025 07:56:47.176] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.7919007863292791
+[01Mar2025 07:59:10.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 07:59:27.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 07:59:43.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has completed the challenge [Centennial]
+[01Mar2025 08:00:38.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has completed the challenge [Centennial]
+[01Mar2025 08:00:39.258] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
