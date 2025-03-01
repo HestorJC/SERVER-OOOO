@@ -2060,105 +2060,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
-    "criteria": {
-      "has_item": "2025-03-01 08:29:50 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-01 08:23:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mangrove_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-01 08:43:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-03-01 07:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-03-01 08:17:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/composter": {
-    "criteria": {
-      "has_wood_slab": "2025-03-01 08:06:00 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-03-01 08:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2025-03-01 08:04:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/jungle_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
-    "criteria": {
-      "has_silver_ingot": "2025-03-01 08:23:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_door": {
-    "criteria": {
-      "has_planks": "2025-03-01 08:43:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
-    "criteria": {
-      "has_porkchop": "2025-03-01 08:42:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/mangrove_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-03-01 08:17:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
     },
     "done": true
   },
@@ -2168,33 +2072,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_ice": {
-    "criteria": {
-      "has_packed_ice": "2025-03-01 08:35:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/cherry_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/birch_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-03-01 07:54:36 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
-    "criteria": {
-      "has_sapphire_gem": "2025-03-01 08:35:45 +0000"
     },
     "done": true
   },
@@ -2204,69 +2084,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/mangrove_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-03-01 08:43:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-03-01 08:17:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-03-01 07:54:55 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-03-01 08:35:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-01 07:54:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mangrove_fence": {
-    "criteria": {
-      "has_planks": "2025-03-01 08:43:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
-    "criteria": {
-      "has_item": "2025-03-01 08:35:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-01 08:43:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/mangrove_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-03-01 08:43:54 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/frost_troll_leather_boots": {
-    "criteria": {
-      "has_item": "2025-03-01 08:29:50 +0000"
     },
     "done": true
   },
@@ -2288,6 +2108,240 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-01 07:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-03-01 07:54:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-03-01 08:00:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-03-01 08:04:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-03-01 08:06:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-03-01 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 08:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 08:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-03-01 08:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 08:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 08:17:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-03-01 08:17:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/silver_ingot_to_silver_nugget": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-01 08:23:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-01 08:23:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-01 08:29:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-03-01 08:29:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-03-01 08:29:50 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-03-01 08:35:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-03-01 08:35:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/frost_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-03-01 08:35:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/forest_troll_leather_helmet": {
+    "criteria": {
+      "has_item": "2025-03-01 08:35:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-03-01 08:35:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-03-01 08:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-01 08:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-01 08:42:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mangrove_sign": {
     "criteria": {
       "has_planks": "2025-03-01 08:43:54 +0000"
@@ -2300,63 +2354,183 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-03-01 08:15:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
-    "criteria": {
-      "has_porkchop": "2025-03-01 08:42:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick_from_bamboo_item": {
-    "criteria": {
-      "has_bamboo": "2025-03-01 08:17:14 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-03-01 08:00:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bamboo_block": {
-    "criteria": {
-      "has_bamboo": "2025-03-01 08:17:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-03-01 07:54:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mangrove_slab": {
     "criteria": {
       "has_planks": "2025-03-01 08:43:54 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+  "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
-      "has_item": "2025-03-01 08:35:36 +0000"
+      "has_stone": "2025-03-01 22:19:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/scaffolding": {
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
-      "has_bamboo": "2025-03-01 08:17:14 +0000"
+      "has_stone": "2025-03-01 22:19:28 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/frost_troll_leather_leggings": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_item": "2025-03-01 08:29:50 +0000"
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2025-03-01 22:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-01 22:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-01 22:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-01 22:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-01 22:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-01 22:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-03-01 22:19:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-01 22:19:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-03-01 22:19:42 +0000"
     },
     "done": true
   },
