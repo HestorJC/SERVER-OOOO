@@ -116,3 +116,26 @@
 [01Mar2025 22:21:44.797] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:56917] logged in with entity id 1440 at (8176.474941916316, 82.10408037809304, 3056.300000011921)
 [01Mar2025 22:21:44.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
 [01Mar2025 22:22:35.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC was slain by theJoJonny
+[01Mar2025 22:28:39.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Who You Gonna Call?]
+[01Mar2025 22:29:25.596] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[01Mar2025 22:31:55.203] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 22:32:27.528] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 22:33:53.705] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 22:35:20.868] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 22:35:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Hot Stuff]
+[01Mar2025 22:36:03.348] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: adriii__[/127.234.151.195:56247] logged in with entity id 6214 at (410.3018582302225, 74.0, 1172.8574494408467)
+[01Mar2025 22:36:03.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ joined the game
+[01Mar2025 22:36:24.965] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 22:36:24.967] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[01Mar2025 22:36:24.984] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[01Mar2025 22:36:27.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
+[01Mar2025 22:37:17.338] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[01Mar2025 22:39:30.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Close Quarters]
+[01Mar2025 22:41:13.694] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/6980, l='ServerLevel[world]', x=9707.51, y=67.06, z=3454.70] was struck by lightning LightningBolt['Lightning Bolt'/8659, l='ServerLevel[world]', x=9707.00, y=72.00, z=3455.00].
+[01Mar2025 22:41:14.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Surge Protector]
+[01Mar2025 22:41:14.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Surge Protector]
+[01Mar2025 22:41:18.226] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/6979, l='ServerLevel[world]', x=9707.51, y=71.06, z=3454.98] died: Ewart the Cold was slain by adriii__
+[01Mar2025 22:41:28.089] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/7315, l='ServerLevel[world]', x=9807.98, y=77.20, z=3638.85] died: Vouzhul the Darkmaster was slain by Cyclops
+[01Mar2025 22:46:01.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to adriii__]
+[01Mar2025 22:46:19.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Penteconter]
+[01Mar2025 22:46:54.941] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/7084, l='ServerLevel[world]', x=9715.70, y=64.00, z=3487.59] died, message: 'Mason was slain by Zombie'
