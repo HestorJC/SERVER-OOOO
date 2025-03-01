@@ -4506,3 +4506,29 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [01Mar2025 08:39:22.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Mar2025 08:39:22.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [01Mar2025 08:40:25.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set the weather to clear]
+[01Mar2025 08:42:26.126] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=8522, y=-7, z=2621} at Chest with:minecraft:chests/simple_dungeon
+[01Mar2025 08:42:43.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 08:42:57.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 08:44:22.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx was killed by Silvana Heartfire using magic
+[01Mar2025 08:44:22.591] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:44:22.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:44:23.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC was killed by Silvana Heartfire using magic
+[01Mar2025 08:44:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[01Mar2025 08:44:42.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to theJoJonny]
+[01Mar2025 08:45:31.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC was slain by Zombie
+[01Mar2025 08:45:35.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[01Mar2025 08:45:39.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx went up in flames
+[01Mar2025 08:45:42.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[01Mar2025 08:45:50.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[01Mar2025 08:47:16.938] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=8405, y=58, z=2770} as the loot table 'minecraft:mvs/cathedral_common' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[01Mar2025 08:47:17.712] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=8405, y=59, z=2770} as the loot table 'minecraft:mvs/cathedral_common' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[01Mar2025 08:47:47.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Creative Mode]
+[01Mar2025 08:48:17.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Applied effect Resistance to HestorJC]
+[01Mar2025 08:48:24.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Draconic Evolution]
+[01Mar2025 08:48:33.012] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Witch['Silvana Heartfire'/143011, l='ServerLevel[world]', x=8432.32, y=66.50, z=2767.64] died: Silvana Heartfire was slain by HestorJC
+[01Mar2025 08:49:05.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Survival Mode]
+[01Mar2025 08:49:22.597] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Mar2025 08:49:22.603] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Mar2025 08:50:28.446] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=8405, y=59, z=2770} as the loot table 'minecraft:mvs/cathedral_common' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[01Mar2025 08:50:29.491] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot barrel in minecraft:overworld at BlockPos{x=8405, y=58, z=2770} as the loot table 'minecraft:mvs/cathedral_common' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.
+[01Mar2025 08:50:39.366] [Server thread/ERROR] [noobanidus.mods.lootr.api.LootrAPI/]: Unable to fill loot chest in minecraft:overworld at BlockPos{x=8405, y=59, z=2770} as the loot table 'minecraft:mvs/cathedral_common' couldn't be resolved! Please search the loot table in `latest.log` to see if there are errors in loading.

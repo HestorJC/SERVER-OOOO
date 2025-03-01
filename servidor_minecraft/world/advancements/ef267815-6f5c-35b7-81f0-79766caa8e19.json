@@ -447,6 +447,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-03-01 04:00:54 +0000",
+      "porkchop": "2025-03-01 08:44:17 +0000",
       "mutton": "2025-03-01 07:06:23 +0000",
       "bread": "2025-03-01 04:27:39 +0000",
       "golden_apple": "2025-03-01 07:31:56 +0000",
@@ -2071,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-03-01 07:54:36 +0000"
@@ -2122,6 +2129,18 @@
   "iceandfire:recipes/building_blocks/silver_ingot_to_silver_block": {
     "criteria": {
       "has_silver_ingot": "2025-03-01 08:23:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_door": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-03-01 08:42:33 +0000"
     },
     "done": true
   },
@@ -2185,6 +2204,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/mangrove_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-03-01 08:17:14 +0000"
@@ -2215,9 +2240,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_fence": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_helmet": {
     "criteria": {
       "has_item": "2025-03-01 08:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
     },
     "done": true
   },
@@ -2245,9 +2288,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mangrove_sign": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/mangrove_button": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-03-01 08:15:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-03-01 08:42:33 +0000"
     },
     "done": true
   },
@@ -2272,6 +2333,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-03-01 07:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_slab": {
+    "criteria": {
+      "has_planks": "2025-03-01 08:43:54 +0000"
     },
     "done": true
   },
