@@ -187,3 +187,8 @@
 [02Mar2025 00:49:10.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
 [02Mar2025 00:49:10.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
 [02Mar2025 00:49:26.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/91479, l='ServerLevel[world]', x=12061.50, y=86.00, z=8077.14] died, message: 'Cleric burned to death'
+[02Mar2025 00:49:49.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/91271, l='ServerLevel[world]', x=12080.39, y=99.25, z=8086.74] died, message: 'Fisherman burned to death'
+[02Mar2025 00:49:53.190] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/91270, l='ServerLevel[world]', x=12083.16, y=96.00, z=8081.30] died, message: 'Fisherman was turned into KFC by Fire Dragon'
+[02Mar2025 00:52:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Ice Bucket Challenge]
+[02Mar2025 00:57:34.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:50587] logged in with entity id 94313 at (12123.115886147145, 109.0, 8114.699999988079)
+[02Mar2025 00:57:34.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
