@@ -170,3 +170,20 @@
 [02Mar2025 00:38:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
 [02Mar2025 00:38:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC fell from a high place
 [02Mar2025 00:39:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
+[02Mar2025 00:39:27.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
+[02Mar2025 00:40:10.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
+[02Mar2025 00:43:38.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[02Mar2025 00:46:12.193] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[02Mar2025 00:46:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> 12152 104 8438
+[02Mar2025 00:47:39.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: adriii__ lost connection: Disconnected
+[02Mar2025 00:47:39.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ left the game
+[02Mar2025 00:48:14.465] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[02Mar2025 00:48:14.530] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[02Mar2025 00:48:14.555] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[02Mar2025 00:48:14.559] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
+[02Mar2025 00:48:27.049] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Mar2025 00:49:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[02Mar2025 00:49:05.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> afsafs
+[02Mar2025 00:49:10.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
+[02Mar2025 00:49:10.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[02Mar2025 00:49:26.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/91479, l='ServerLevel[world]', x=12061.50, y=86.00, z=8077.14] died, message: 'Cleric burned to death'
