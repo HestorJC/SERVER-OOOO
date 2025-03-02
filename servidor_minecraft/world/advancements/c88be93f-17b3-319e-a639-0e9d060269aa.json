@@ -2419,6 +2419,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-03-02 01:14:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
     "criteria": {
       "has_sapphire_gem": "2025-03-02 01:05:57 +0000"

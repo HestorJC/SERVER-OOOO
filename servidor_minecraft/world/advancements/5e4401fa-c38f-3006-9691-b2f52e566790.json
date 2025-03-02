@@ -2942,9 +2942,21 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-03-02 01:14:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-03-02 01:00:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-03-02 01:11:31 +0000"
     },
     "done": true
   },
