@@ -140,3 +140,33 @@
 [02Mar2025 00:04:07.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> X
 [02Mar2025 00:05:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has completed the challenge [Centennial]
 [02Mar2025 00:06:13.488] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Mar2025 00:09:55.937] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Mar2025 00:11:04.958] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[02Mar2025 00:11:04.958] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[02Mar2025 00:11:20.438] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Mar2025 00:11:26.856] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Mar2025 00:14:18.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.32325069153375807
+[02Mar2025 00:14:26.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.8172789260314078
+[02Mar2025 00:14:27.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.4753757411550003
+[02Mar2025 00:14:28.188] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Mar2025 00:14:42.586] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Mar2025 00:15:32.408] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[02Mar2025 00:15:54.788] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Mar2025 00:20:12.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[02Mar2025 00:20:12.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[02Mar2025 00:21:53.224] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Mar2025 00:22:50.351] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[02Mar2025 00:22:50.351] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[02Mar2025 00:23:01.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported adriii__ to HestorJC]
+[02Mar2025 00:24:40.761] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Mar2025 00:27:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
+[02Mar2025 00:27:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported adriii__ to HestorJC]
+[02Mar2025 00:29:50.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/84073, l='ServerLevel[world]', x=12127.30, y=107.67, z=8443.04] died: Ewart the Cold was killed by magic whilst trying to escape adriii__
+[02Mar2025 00:33:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Cover Me with Diamonds]
+[02Mar2025 00:34:37.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:55321] logged in with entity id 86368 at (10095.300000011921, 60.0, 3620.699999988079)
+[02Mar2025 00:34:37.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[02Mar2025 00:34:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[02Mar2025 00:38:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
+[02Mar2025 00:38:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
+[02Mar2025 00:38:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC fell from a high place
+[02Mar2025 00:39:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
