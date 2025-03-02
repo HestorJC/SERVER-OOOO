@@ -35,6 +35,7 @@
       "minecraft:jungle": "2025-03-01 07:13:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-01 05:49:33 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-03-01 07:12:16 +0000",
+      "minecraft:flower_forest": "2025-03-02 01:33:26 +0000",
       "minecraft:frozen_peaks": "2025-03-01 04:19:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-01 05:40:08 +0000",
       "minecraft:meadow": "2025-03-01 05:07:06 +0000",
@@ -2942,9 +2943,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-03-02 01:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/dragon_breath": {
     "criteria": {
       "dragon_breath": "2025-03-02 01:14:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-03-02 01:24:06 +0000"
     },
     "done": true
   },
@@ -2957,6 +2970,12 @@
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-03-02 01:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-03-02 01:25:25 +0000"
     },
     "done": true
   },

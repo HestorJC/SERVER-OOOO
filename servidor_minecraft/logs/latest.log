@@ -208,3 +208,42 @@
 [02Mar2025 01:18:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 12152.500000, 104.000000, 8438.500000]
 [02Mar2025 01:19:07.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
 [02Mar2025 01:19:39.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
+[02Mar2025 01:20:20.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> a
+[02Mar2025 01:23:07.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[02Mar2025 01:23:07.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
+[02Mar2025 01:23:11.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.144.160.88:42255] logged in with entity id 103464 at (12126.384427309084, 120.0, 8444.699999988079)
+[02Mar2025 01:23:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
+[02Mar2025 01:24:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Suit Up]
+[02Mar2025 01:26:26.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[02Mar2025 01:26:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[02Mar2025 01:27:17.042] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@843f686[id=<null>,name=theJoJonny,properties={},legacy=false] (/127.107.54.166:39625) lost connection: Disconnected
+[02Mar2025 01:27:45.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:37847] logged in with entity id 105879 at (12491.327576452637, 109.0, 8439.242505704933)
+[02Mar2025 01:27:45.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[02Mar2025 01:28:32.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Another Brick in the Wall]
+[02Mar2025 01:31:36.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
+[02Mar2025 01:32:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[02Mar2025 01:32:08.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported HestorJC to theJoJonny]
+[02Mar2025 01:32:20.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[02Mar2025 01:32:40.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[02Mar2025 01:33:09.170] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[02Mar2025 01:34:05.006] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[02Mar2025 01:34:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
+[02Mar2025 01:34:53.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12515, y=81, z=8080} BlockPos{x=12515, y=79, z=8080}
+[02Mar2025 01:34:54.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12523, y=80, z=8076} BlockPos{x=12524, y=78, z=8076}
+[02Mar2025 01:34:54.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12523, y=80, z=8076} BlockPos{x=12524, y=78, z=8076}
+[02Mar2025 01:34:55.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12529, y=80, z=8073} BlockPos{x=12528, y=78, z=8074}
+[02Mar2025 01:34:55.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12529, y=80, z=8073} BlockPos{x=12528, y=78, z=8074}
+[02Mar2025 01:34:55.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12530, y=80, z=8073} BlockPos{x=12530, y=78, z=8073}
+[02Mar2025 01:36:08.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12505.676336, 69.000000, 8137.666378]
+[02Mar2025 01:36:08.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
+[02Mar2025 01:36:08.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[02Mar2025 01:36:13.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12499.352236, 69.000000, 8145.611718]
+[02Mar2025 01:36:20.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12501.096220, 69.000000, 8141.735945]
+[02Mar2025 01:36:47.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
+[02Mar2025 01:36:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
+[02Mar2025 01:36:52.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: adriii__ moved too quickly! 7.52889760313883,2.0,-12.073103749215989
+[02Mar2025 01:37:34.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
+[02Mar2025 01:38:53.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:34599] logged in with entity id 111653 at (12561.182339218027, 76.0, 8069.615987672059)
+[02Mar2025 01:38:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[02Mar2025 01:39:37.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
+[02Mar2025 01:40:08.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
