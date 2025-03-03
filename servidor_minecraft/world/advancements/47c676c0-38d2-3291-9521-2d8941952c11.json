@@ -2967,5 +2967,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-03-03 05:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-03-03 05:51:56 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
