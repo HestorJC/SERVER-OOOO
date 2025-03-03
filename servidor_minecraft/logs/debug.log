@@ -2832,3 +2832,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 16:12:35.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 16:12:35.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Mar2025 16:12:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Into Fire]
+[03Mar2025 16:14:16.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Into Fire]
+[03Mar2025 16:15:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Into Fire]
+[03Mar2025 16:17:35.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 16:17:35.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 16:19:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Spooky Scary Skeleton]
+[03Mar2025 16:21:27.190] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/nether_well
+[03Mar2025 16:21:31.264] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31924, l='ServerLevel[world]', x=-868.00, y=31.00, z=-51.00] as it would cause deadlock
+[03Mar2025 16:22:35.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 16:22:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 16:23:14.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Spooky Scary Skeleton]

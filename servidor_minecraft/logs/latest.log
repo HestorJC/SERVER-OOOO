@@ -223,3 +223,8 @@
 [03Mar2025 16:11:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
 [03Mar2025 16:11:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [A Terrible Fortress]
 [03Mar2025 16:12:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Into Fire]
+[03Mar2025 16:14:16.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Into Fire]
+[03Mar2025 16:15:39.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Into Fire]
+[03Mar2025 16:19:36.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Spooky Scary Skeleton]
+[03Mar2025 16:21:31.264] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/31924, l='ServerLevel[world]', x=-868.00, y=31.00, z=-51.00] as it would cause deadlock
+[03Mar2025 16:23:14.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Spooky Scary Skeleton]

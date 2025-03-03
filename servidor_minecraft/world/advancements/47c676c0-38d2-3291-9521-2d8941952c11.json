@@ -430,6 +430,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-01 05:50:23 +0000",
+      "minecraft:blaze": "2025-03-03 16:12:39 +0000",
       "minecraft:skeleton": "2025-03-01 04:33:24 +0000",
       "minecraft:ghast": "2025-03-03 16:01:24 +0000",
       "minecraft:guardian": "2025-03-03 03:18:15 +0000",
@@ -438,6 +439,8 @@
       "minecraft:creeper": "2025-03-01 04:02:56 +0000",
       "minecraft:slime": "2025-03-01 04:53:27 +0000",
       "minecraft:phantom": "2025-03-03 03:33:54 +0000",
+      "minecraft:zombified_piglin": "2025-03-03 16:16:30 +0000",
+      "minecraft:wither_skeleton": "2025-03-03 16:15:32 +0000",
       "minecraft:cave_spider": "2025-03-01 04:57:33 +0000",
       "minecraft:enderman": "2025-03-02 01:20:55 +0000",
       "minecraft:stray": "2025-03-03 05:19:33 +0000",
@@ -2925,7 +2928,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-03-03 16:02:40 +0000",
       "minecraft:soul_sand_valley": "2025-03-03 04:23:14 +0000",
-      "minecraft:nether_wastes": "2025-03-03 16:02:31 +0000"
+      "minecraft:nether_wastes": "2025-03-03 16:02:31 +0000",
+      "minecraft:basalt_deltas": "2025-03-03 16:22:11 +0000"
     },
     "done": false
   },
@@ -3085,6 +3089,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-03 16:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:10:36 +0000"
@@ -3094,6 +3104,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-03-03 16:13:36 +0000"
     },
     "done": true
   },
@@ -3160,6 +3176,12 @@
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-03 15:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-03-03 16:13:36 +0000"
     },
     "done": true
   },
@@ -3271,6 +3293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 16:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:10:36 +0000"
@@ -3292,6 +3320,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-03-03 15:34:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-03 16:14:16 +0000"
     },
     "done": true
   },
