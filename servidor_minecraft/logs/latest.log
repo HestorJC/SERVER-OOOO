@@ -411,3 +411,6 @@
 [03Mar2025 17:39:03.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny moved wrongly!
 [03Mar2025 17:41:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny was slain by Cachalot Whale
 [03Mar2025 17:43:51.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
+[03Mar2025 17:44:34.043] [Server thread/ERROR] [sophisticatedbackpacks/]: Error getting backpack wrapper - Unable to find backpack at slot index 4 in "main" inventory handler
+[03Mar2025 17:45:08.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Ol' Betsy]
+[03Mar2025 17:52:52.989] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/72056, l='ServerLevel[world]', x=211.31, y=76.00, z=237.98] died, message: 'Librarian was slain by Zombie'
