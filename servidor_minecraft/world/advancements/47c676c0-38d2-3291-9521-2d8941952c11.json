@@ -442,6 +442,7 @@
       "minecraft:zombified_piglin": "2025-03-03 16:16:30 +0000",
       "minecraft:wither_skeleton": "2025-03-03 16:15:32 +0000",
       "minecraft:cave_spider": "2025-03-01 04:57:33 +0000",
+      "minecraft:piglin": "2025-03-03 16:35:03 +0000",
       "minecraft:enderman": "2025-03-02 01:20:55 +0000",
       "minecraft:stray": "2025-03-03 05:19:33 +0000",
       "minecraft:zombie": "2025-03-01 04:02:35 +0000",
@@ -2929,9 +2930,10 @@
       "minecraft:crimson_forest": "2025-03-03 16:02:40 +0000",
       "minecraft:soul_sand_valley": "2025-03-03 04:23:14 +0000",
       "minecraft:nether_wastes": "2025-03-03 16:02:31 +0000",
-      "minecraft:basalt_deltas": "2025-03-03 16:22:11 +0000"
+      "minecraft:basalt_deltas": "2025-03-03 16:22:11 +0000",
+      "minecraft:warped_forest": "2025-03-03 16:35:40 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
@@ -3047,6 +3049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-03-03 15:49:02 +0000"
@@ -3056,6 +3064,18 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-03-03 16:07:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
     },
     "done": true
   },
@@ -3107,6 +3127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_wart_block": {
     "criteria": {
       "has_nether_wart": "2025-03-03 16:13:36 +0000"
@@ -3116,6 +3142,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-03-03 15:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
     },
     "done": true
   },
@@ -3173,6 +3205,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-03 16:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite": {
     "criteria": {
       "has_quartz": "2025-03-03 15:59:24 +0000"
@@ -3182,6 +3220,18 @@
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-03-03 16:13:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
     },
     "done": true
   },
@@ -3263,6 +3313,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-03-03 16:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:10:36 +0000"
@@ -3287,6 +3343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:10:36 +0000"
@@ -3296,6 +3358,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-03-03 16:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-03 16:39:59 +0000"
     },
     "done": true
   },
@@ -3323,6 +3391,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-03-03 16:23:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-03-03 16:14:16 +0000"
@@ -3332,6 +3406,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-03-03 15:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-03-03 16:37:34 +0000"
     },
     "done": true
   },

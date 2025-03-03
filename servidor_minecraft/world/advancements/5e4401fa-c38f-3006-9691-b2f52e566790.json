@@ -301,6 +301,7 @@
       "golden_apple": "2025-03-01 07:33:44 +0000",
       "rotten_flesh": "2025-03-01 03:54:09 +0000",
       "golden_carrot": "2025-03-03 15:56:02 +0000",
+      "enchanted_golden_apple": "2025-03-03 16:40:22 +0000",
       "carrot": "2025-03-01 04:30:13 +0000"
     },
     "done": false
@@ -371,6 +372,7 @@
       "minecraft:blaze": "2025-03-03 16:12:47 +0000",
       "minecraft:skeleton": "2025-03-01 04:03:41 +0000",
       "minecraft:ravager": "2025-03-03 01:54:38 +0000",
+      "minecraft:ghast": "2025-03-03 16:29:19 +0000",
       "minecraft:hoglin": "2025-03-03 16:08:11 +0000",
       "minecraft:vindicator": "2025-03-03 01:53:40 +0000",
       "minecraft:spider": "2025-03-01 04:30:53 +0000",
@@ -381,6 +383,7 @@
       "minecraft:witch": "2025-03-01 08:48:33 +0000",
       "minecraft:wither_skeleton": "2025-03-03 16:14:05 +0000",
       "minecraft:cave_spider": "2025-03-01 04:41:21 +0000",
+      "minecraft:piglin": "2025-03-03 16:33:39 +0000",
       "minecraft:enderman": "2025-03-01 07:09:07 +0000",
       "minecraft:stray": "2025-03-03 10:35:32 +0000",
       "minecraft:zombie": "2025-03-01 03:53:33 +0000",
@@ -4320,9 +4323,10 @@
       "minecraft:crimson_forest": "2025-03-03 16:02:39 +0000",
       "minecraft:nether_wastes": "2025-03-03 16:02:23 +0000",
       "minecraft:soul_sand_valley": "2025-03-03 15:58:03 +0000",
-      "minecraft:basalt_deltas": "2025-03-03 16:21:29 +0000"
+      "minecraft:basalt_deltas": "2025-03-03 16:21:29 +0000",
+      "minecraft:warped_forest": "2025-03-03 16:35:14 +0000"
     },
-    "done": false
+    "done": true
   },
   "alexsmobs:alexsmobs/soul_vulture": {
     "criteria": {
@@ -4378,6 +4382,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-03 16:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:15:17 +0000"
@@ -4390,6 +4400,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-03-03 16:27:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:15:17 +0000"
@@ -4399,6 +4415,12 @@
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-03-03 15:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-03-03 16:26:33 +0000"
     },
     "done": true
   },
@@ -4435,6 +4457,12 @@
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-03-03 16:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-03-03 16:26:33 +0000"
     },
     "done": true
   },

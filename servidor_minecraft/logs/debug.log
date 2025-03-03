@@ -2842,3 +2842,43 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 16:22:35.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 16:22:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Mar2025 16:23:14.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Spooky Scary Skeleton]
+[03Mar2025 16:26:02.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: The difficulty has been set to Hard]
+[03Mar2025 16:26:58.500] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:blazeboss at BlockPos{x=-935, y=72, z=-118} at Chest with:minecraft:chests/nether_bridge
+[03Mar2025 16:27:20.256] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/33554, l='ServerLevel[world]', x=-921.00, y=31.00, z=-196.00] as it would cause deadlock
+[03Mar2025 16:27:35.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 16:27:35.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 16:27:57.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Straddle My Ol' Saddle]
+[03Mar2025 16:28:38.008] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34252, l='ServerLevel[world]', x=-697.00, y=31.00, z=-388.00] as it would cause deadlock
+[03Mar2025 16:29:01.390] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34332, l='ServerLevel[world]', x=-1028.00, y=31.00, z=-425.00] as it would cause deadlock
+[03Mar2025 16:29:06.468] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34371, l='ServerLevel[world]', x=-998.00, y=31.00, z=-447.10] as it would cause deadlock
+[03Mar2025 16:30:15.758] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34808, l='ServerLevel[world]', x=-1096.00, y=31.00, z=-383.10] as it would cause deadlock
+[03Mar2025 16:30:15.767] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34819, l='ServerLevel[world]', x=-1092.00, y=31.00, z=-263.00] as it would cause deadlock
+[03Mar2025 16:30:16.355] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-727, y=72, z=-603} at Chest with:minecraft:chests/bastion_other
+[03Mar2025 16:30:16.578] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/34860, l='ServerLevel[world]', x=-1054.00, y=31.00, z=-584.00] as it would cause deadlock
+[03Mar2025 16:31:35.631] [Worker-Main-33/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=-1183, y=40, z=-678} at Chest with:minecraft:chests/bastion_other
+[03Mar2025 16:32:24.077] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/36211, l='ServerLevel[world]', x=-1113.00, y=31.00, z=-808.00] as it would cause deadlock
+[03Mar2025 16:32:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 16:32:35.436] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 16:34:31.308] [Worker-Main-38/DEBUG] [ModernFix/]: Structure mvs:other_decoration/crimson_enchanting_table is being run through DFU (hash 1d80d04b1396ddc0382afc3cf15c84e54887b098b319cbfa29b6e7ed9af591a3), this will cause launch time delays
+[03Mar2025 16:34:31.308] [Worker-Main-38/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Mar2025 16:34:34.070] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/38130, l='ServerLevel[world]', x=-301.00, y=31.00, z=-278.00] as it would cause deadlock
+[03Mar2025 16:34:52.518] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witherskeletonshieldboss at BlockPos{x=-831, y=53, z=-974} at Chest with:minecraft:chests/nether_bridge
+[03Mar2025 16:35:14.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has completed the challenge [Hot Tourist Destinations]
+[03Mar2025 16:35:28.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 16:35:29.218] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/38956, l='ServerLevel[world]', x=-1270.00, y=31.00, z=-619.00] as it would cause deadlock
+[03Mar2025 16:35:40.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:35:40.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has completed the challenge [Hot Tourist Destinations]
+[03Mar2025 16:37:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 16:37:35.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 16:38:50.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 16:40:20.913] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40410, l='ServerLevel[world]', x=-1270.00, y=31.00, z=-569.00] as it would cause deadlock
+[03Mar2025 16:40:27.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 16:40:37.862] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/40607, l='ServerLevel[world]', x=-1399.00, y=31.00, z=-855.00] as it would cause deadlock
+[03Mar2025 16:41:20.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1183, y=91, z=-847} BlockPos{x=-1182, y=90, z=-847}
+[03Mar2025 16:41:24.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:41:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
+[03Mar2025 16:41:30.220] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[03Mar2025 16:41:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:42:35.423] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 16:42:35.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 16:42:45.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Gboom the Bloated'/35842, l='ServerLevel[world]', x=-1278.47, y=69.28, z=-833.39] died: Gboom the Bloated was shot by HestorJC
