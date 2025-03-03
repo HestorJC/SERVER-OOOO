@@ -426,3 +426,9 @@
 [03Mar2025 18:10:50.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Creative Mode]
 [03Mar2025 18:11:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Survival Mode]
 [03Mar2025 18:13:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Local Brewery]
+[03Mar2025 18:15:44.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:50871] logged in with entity id 91024 at (231.31288210002973, 71.76636799395752, 248.9307185744816)
+[03Mar2025 18:15:44.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 18:15:53.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Disconnected
+[03Mar2025 18:15:53.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 18:16:36.785] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[03Mar2025 18:16:36.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
