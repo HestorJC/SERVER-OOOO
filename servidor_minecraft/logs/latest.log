@@ -254,3 +254,55 @@
 [03Mar2025 16:41:24.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
 [03Mar2025 16:41:30.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
 [03Mar2025 16:42:45.744] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Ghast['Gboom the Bloated'/35842, l='ServerLevel[world]', x=-1278.47, y=69.28, z=-833.39] died: Gboom the Bloated was shot by HestorJC
+[03Mar2025 16:43:42.774] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/42279, l='ServerLevel[world]', x=-1496.00, y=31.00, z=-1065.00] as it would cause deadlock
+[03Mar2025 16:43:58.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:44:51.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:45:49.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 16:50:55.051] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.077] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.575] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:50:55.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1784, y=58, z=-1315} BlockPos{x=-1784, y=57, z=-1315}
+[03Mar2025 16:51:06.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:51:12.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 16:51:14.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Those Were the Days]
+[03Mar2025 16:51:16.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Those Were the Days]
+[03Mar2025 16:51:34.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Those Were the Days]
+[03Mar2025 16:52:36.316] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/44242, l='ServerLevel[world]', x=-1805.38, y=66.00, z=-1285.57] died: Samuel the Pit Master was slain by theJoJonny
+[03Mar2025 16:53:22.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [War Pigs]
+[03Mar2025 16:53:59.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [War Pigs]
+[03Mar2025 16:54:05.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Hidden in the Depths]
+[03Mar2025 16:54:12.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [War Pigs]
+[03Mar2025 16:54:33.330] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/46264, l='ServerLevel[world]', x=-2020.00, y=31.00, z=-1276.00] as it would cause deadlock
+[03Mar2025 16:55:16.337] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1847, y=33, z=-1288} BlockPos{x=-1848, y=34, z=-1288}
+[03Mar2025 16:56:41.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1823, y=39, z=-1308} BlockPos{x=-1823, y=39, z=-1309}
+[03Mar2025 16:56:41.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1823, y=39, z=-1308} BlockPos{x=-1823, y=39, z=-1309}
+[03Mar2025 16:56:41.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1823, y=39, z=-1308} BlockPos{x=-1823, y=39, z=-1309}
+[03Mar2025 16:56:41.196] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1823, y=39, z=-1308} BlockPos{x=-1823, y=39, z=-1309}
+[03Mar2025 16:56:41.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1823, y=39, z=-1308} BlockPos{x=-1823, y=39, z=-1309}
+[03Mar2025 16:56:41.287] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1823, y=39, z=-1308} BlockPos{x=-1823, y=39, z=-1309}
+[03Mar2025 16:57:38.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> a
+[03Mar2025 16:57:53.342] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 16:57:53.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 16:58:12.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:58:14.468] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47065, l='ServerLevel[world]', x=-1853.00, y=31.00, z=-1695.10] as it would cause deadlock
+[03Mar2025 16:58:30.854] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/47220, l='ServerLevel[world]', x=-1863.00, y=31.00, z=-1733.00] as it would cause deadlock
+[03Mar2025 16:59:24.049] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:50083] logged in with entity id 47475 at (-1824.560921582589, 46.00133597911215, -1291.2641717299055)
+[03Mar2025 16:59:24.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 17:00:59.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 17:02:37.008] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/48752, l='ServerLevel[world]', x=-2375.00, y=31.00, z=-1779.00] as it would cause deadlock
+[03Mar2025 17:02:37.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
+[03Mar2025 17:02:37.480] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
+[03Mar2025 17:02:37.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
+[03Mar2025 17:02:37.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
+[03Mar2025 17:02:37.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
+[03Mar2025 17:02:37.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
+[03Mar2025 17:02:37.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
