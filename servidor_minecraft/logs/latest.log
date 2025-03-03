@@ -406,3 +406,8 @@
 [03Mar2025 17:32:25.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
 [03Mar2025 17:32:55.658] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
 [03Mar2025 17:32:55.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 17:34:12.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:54597] logged in with entity id 71203 at (-16660.9592851494, 95.0, -12674.014800664398)
+[03Mar2025 17:34:12.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 17:39:03.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny moved wrongly!
+[03Mar2025 17:41:13.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny was slain by Cachalot Whale
+[03Mar2025 17:43:51.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
