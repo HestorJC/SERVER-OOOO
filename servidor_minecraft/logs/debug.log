@@ -4934,3 +4934,47 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 03:30:12.932] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [03Mar2025 03:30:15.677] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=140, y=-13, z=6358} at Chest with:minecraft:chests/simple_dungeon
 [03Mar2025 03:30:35.599] [Worker-Main-35/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=25, y=-13, z=6488} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:31:03.389] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=462, y=-4, z=6475} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:31:13.748] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[03Mar2025 03:31:13.749] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/core_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/topology/physical_package_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu2/cpu_capacity
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/core_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/topology/physical_package_id
+[03Mar2025 03:31:13.750] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu3/cpu_capacity
+[03Mar2025 03:31:13.751] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[03Mar2025 03:31:13.767] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[03Mar2025 03:31:13.768] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@5634a861
+[03Mar2025 03:31:13.768] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[03Mar2025 03:31:13.780] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[03Mar2025 03:31:13.781] [Worker-Main-11/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[03Mar2025 03:31:23.887] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=261, y=-49, z=6620} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:32:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Ice Bucket Challenge]
+[03Mar2025 03:33:43.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 03:33:43.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 03:33:58.093] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=561, y=-31, z=6632} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:34:12.431] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=630, y=50, z=6228} at Chest with:minecraft:chests/underwater_ruin_small
+[03Mar2025 03:34:20.436] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=679, y=-43, z=6553} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:35:19.902] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=662, y=-25, z=6718} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:35:22.325] [Worker-Main-35/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=554, y=-2, z=6751} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:36:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Total Beelocation]
+[03Mar2025 03:36:19.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
+[03Mar2025 03:38:43.743] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 03:38:43.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 03:40:00.641] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-92, y=-27, z=6547} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:40:04.490] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-105, y=5, z=6349} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:40:16.139] [Worker-Main-35/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-167, y=-31, z=6724} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 03:40:41.051] [Worker-Main-35/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-233, y=26, z=6796} at Chest with:minecraft:chests/simple_dungeon

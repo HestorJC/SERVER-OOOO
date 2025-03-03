@@ -3173,6 +3173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-03-03 03:32:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/map": {
     "criteria": {
       "has_compass": "2025-03-03 03:09:39 +0000"
@@ -3182,6 +3188,18 @@
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-03 03:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-03-03 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-03-03 03:29:42 +0000"
     },
     "done": true
   },
