@@ -138,3 +138,88 @@
 [03Mar2025 15:32:37.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
 [03Mar2025 15:34:15.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
 [03Mar2025 15:38:48.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asds
+[03Mar2025 15:49:15.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[03Mar2025 15:49:59.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 15:57:32.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 15:57:44.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 15:58:03.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [We Need to Go Deeper]
+[03Mar2025 15:58:04.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [We Need to Go Deeper]
+[03Mar2025 15:59:06.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Fetch Me Their Souls!]
+[03Mar2025 15:59:25.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-212, y=40, z=735} BlockPos{x=-213, y=39, z=733}
+[03Mar2025 15:59:37.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:37.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:37.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:37.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:37.786] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:37.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:37.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.287] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.386] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.486] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.587] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.687] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.885] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:38.986] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.187] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.387] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.487] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.787] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:39.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.087] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.285] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.385] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.586] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.686] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.888] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:40.985] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:41.086] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:41.186] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:41.286] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 15:59:57.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-208, y=38, z=730} BlockPos{x=-208, y=39, z=732}
+[03Mar2025 16:01:51.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> -330 52 736
+[03Mar2025 16:03:30.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Nightmare Fuel]
+[03Mar2025 16:03:48.971] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26299, l='ServerLevel[world]', x=-742.00, y=31.00, z=784.90] as it would cause deadlock
+[03Mar2025 16:04:08.201] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26400, l='ServerLevel[world]', x=-631.00, y=31.00, z=379.00] as it would cause deadlock
+[03Mar2025 16:04:55.817] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26714, l='ServerLevel[world]', x=-686.00, y=31.00, z=888.00] as it would cause deadlock
+[03Mar2025 16:05:03.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:05:46.775] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/26922, l='ServerLevel[world]', x=-678.00, y=31.00, z=199.00] as it would cause deadlock
+[03Mar2025 16:06:15.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Nightmare Fuel]
+[03Mar2025 16:06:57.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 16:07:39.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Nightmare Fuel]
+[03Mar2025 16:07:42.075] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/27721, l='ServerLevel[world]', x=-583.00, y=31.00, z=77.00] as it would cause deadlock
+[03Mar2025 16:07:51.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 16:07:53.119] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/27901, l='ServerLevel[world]', x=-425.00, y=31.00, z=25.00] as it would cause deadlock
+[03Mar2025 16:07:58.628] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/27984, l='ServerLevel[world]', x=-319.10, y=31.00, z=10.00] as it would cause deadlock
+[03Mar2025 16:08:28.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 16:08:33.246] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28162, l='ServerLevel[world]', x=-370.00, y=31.00, z=-30.00] as it would cause deadlock
+[03Mar2025 16:08:33.310] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28166, l='ServerLevel[world]', x=-388.00, y=31.00, z=-21.00] as it would cause deadlock
+[03Mar2025 16:08:46.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 16:08:46.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 16:09:10.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:57189] logged in with entity id 28395 at (-395.7304429393833, 75.0, 185.47102606036248)
+[03Mar2025 16:09:10.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 16:09:22.428] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28510, l='ServerLevel[world]', x=-351.00, y=31.00, z=-153.00] as it would cause deadlock
+[03Mar2025 16:09:40.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 16:09:40.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 16:09:50.145] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/28685, l='ServerLevel[world]', x=-627.00, y=31.00, z=108.00] as it would cause deadlock
+[03Mar2025 16:09:55.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 16:10:04.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:39523] logged in with entity id 28832 at (-395.7304429393833, 75.0, 185.47102606036248)
+[03Mar2025 16:10:04.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 16:10:06.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 16:11:05.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 16:11:16.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [A Terrible Fortress]
+[03Mar2025 16:11:20.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 16:11:20.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [A Terrible Fortress]
+[03Mar2025 16:11:38.925] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Samuel the Pit Master'/28231, l='ServerLevel[world]', x=-533.85, y=54.50, z=-56.00] died: Samuel the Pit Master was slain by HestorJC
+[03Mar2025 16:11:42.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 16:11:42.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [A Terrible Fortress]
+[03Mar2025 16:12:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Into Fire]
