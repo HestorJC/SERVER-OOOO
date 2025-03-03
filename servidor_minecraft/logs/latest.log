@@ -1,249 +1,106 @@
-[02Mar2025 00:01:59.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:01:59.544] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:01:59.649] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:01:59.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:01:59.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:01:59.947] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:00.939] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.039] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.140] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.239] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.637] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.740] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:01.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.442] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.637] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:02.937] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:03.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.236] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.338] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:04.937] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.440] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.839] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:05.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.138] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:06.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:07.939] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.342] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.437] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:08.939] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.038] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.340] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.738] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.836] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:09.936] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.436] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.837] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:10.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.538] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.838] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.940] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[02Mar2025 00:02:11.999] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
-[02Mar2025 00:02:12.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
-[02Mar2025 00:02:59.150] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1ec5d620[id=<null>,name=HestorJC,properties={},legacy=false] (/127.160.228.191:34073) lost connection: Disconnected
-[02Mar2025 00:03:06.938] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7bc86b94[id=<null>,name=HestorJC,properties={},legacy=false] (/127.160.228.191:43985) lost connection: Disconnected
-[02Mar2025 00:03:36.411] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[02Mar2025 00:03:36.412] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[02Mar2025 00:03:36.413] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[02Mar2025 00:03:36.414] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[02Mar2025 00:03:36.414] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[02Mar2025 00:03:50.208] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:57795] logged in with entity id 59745 at (10491.300000011921, 69.0, 6821.857529096451)
-[02Mar2025 00:03:50.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
-[02Mar2025 00:04:01.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> G
-[02Mar2025 00:04:05.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> n
-[02Mar2025 00:04:07.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> X
-[02Mar2025 00:05:42.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has completed the challenge [Centennial]
-[02Mar2025 00:06:13.488] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[02Mar2025 00:09:55.937] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[02Mar2025 00:11:04.958] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[02Mar2025 00:11:04.958] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[02Mar2025 00:11:20.438] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[02Mar2025 00:11:26.856] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[02Mar2025 00:14:18.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.32325069153375807
-[02Mar2025 00:14:26.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.8172789260314078
-[02Mar2025 00:14:27.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.4753757411550003
-[02Mar2025 00:14:28.188] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[02Mar2025 00:14:42.586] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[02Mar2025 00:15:32.408] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[02Mar2025 00:15:54.788] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[02Mar2025 00:20:12.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
-[02Mar2025 00:20:12.684] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
-[02Mar2025 00:21:53.224] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[02Mar2025 00:22:50.351] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[02Mar2025 00:22:50.351] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[02Mar2025 00:23:01.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported adriii__ to HestorJC]
-[02Mar2025 00:24:40.761] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[02Mar2025 00:27:01.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
-[02Mar2025 00:27:49.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported adriii__ to HestorJC]
-[02Mar2025 00:29:50.215] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/84073, l='ServerLevel[world]', x=12127.30, y=107.67, z=8443.04] died: Ewart the Cold was killed by magic whilst trying to escape adriii__
-[02Mar2025 00:33:01.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Cover Me with Diamonds]
-[02Mar2025 00:34:37.041] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:55321] logged in with entity id 86368 at (10095.300000011921, 60.0, 3620.699999988079)
-[02Mar2025 00:34:37.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[02Mar2025 00:34:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[02Mar2025 00:38:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
-[02Mar2025 00:38:58.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
-[02Mar2025 00:38:58.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC fell from a high place
-[02Mar2025 00:39:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
-[02Mar2025 00:39:27.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
-[02Mar2025 00:40:10.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
-[02Mar2025 00:43:38.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[02Mar2025 00:46:12.193] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[02Mar2025 00:46:40.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> 12152 104 8438
-[02Mar2025 00:47:39.126] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: adriii__ lost connection: Disconnected
-[02Mar2025 00:47:39.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ left the game
-[02Mar2025 00:48:14.465] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[02Mar2025 00:48:14.530] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[02Mar2025 00:48:14.555] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[02Mar2025 00:48:14.559] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[02Mar2025 00:48:27.049] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[02Mar2025 00:49:02.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[02Mar2025 00:49:05.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> afsafs
-[02Mar2025 00:49:10.102] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
-[02Mar2025 00:49:10.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
-[02Mar2025 00:49:26.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/91479, l='ServerLevel[world]', x=12061.50, y=86.00, z=8077.14] died, message: 'Cleric burned to death'
-[02Mar2025 00:49:49.042] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/91271, l='ServerLevel[world]', x=12080.39, y=99.25, z=8086.74] died, message: 'Fisherman burned to death'
-[02Mar2025 00:49:53.190] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/91270, l='ServerLevel[world]', x=12083.16, y=96.00, z=8081.30] died, message: 'Fisherman was turned into KFC by Fire Dragon'
-[02Mar2025 00:52:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Ice Bucket Challenge]
-[02Mar2025 00:57:34.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:50587] logged in with entity id 94313 at (12123.115886147145, 109.0, 8114.699999988079)
-[02Mar2025 00:57:34.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
-[02Mar2025 01:00:07.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[02Mar2025 01:00:25.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Hot Stuff]
-[02Mar2025 01:01:49.445] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: adriii__[/127.234.151.195:43113] logged in with entity id 96264 at (12467.194378308779, 93.0, 8613.499109439488)
-[02Mar2025 01:01:49.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ joined the game
-[02Mar2025 01:02:03.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
-[02Mar2025 01:03:50.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
-[02Mar2025 01:04:35.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> aç
-[02Mar2025 01:04:58.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Hot Stuff]
-[02Mar2025 01:05:02.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
-[02Mar2025 01:14:22.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has reached the goal [You Need a Mint]
-[02Mar2025 01:14:25.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has reached the goal [You Need a Mint]
-[02Mar2025 01:17:38.301] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.144.160.88:42875] logged in with entity id 101499 at (8181.082054940549, 82.0, 3060.300000011921)
-[02Mar2025 01:17:38.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
-[02Mar2025 01:18:55.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 12152.500000, 104.000000, 8438.500000]
-[02Mar2025 01:19:07.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
-[02Mar2025 01:19:39.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
-[02Mar2025 01:20:20.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> a
-[02Mar2025 01:23:07.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
-[02Mar2025 01:23:07.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
-[02Mar2025 01:23:11.245] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.144.160.88:42255] logged in with entity id 103464 at (12126.384427309084, 120.0, 8444.699999988079)
-[02Mar2025 01:23:11.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
-[02Mar2025 01:24:15.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: adriii__ has made the advancement [Suit Up]
-[02Mar2025 01:26:26.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[02Mar2025 01:26:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[02Mar2025 01:27:17.042] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@843f686[id=<null>,name=theJoJonny,properties={},legacy=false] (/127.107.54.166:39625) lost connection: Disconnected
-[02Mar2025 01:27:45.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:37847] logged in with entity id 105879 at (12491.327576452637, 109.0, 8439.242505704933)
-[02Mar2025 01:27:45.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[02Mar2025 01:28:32.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Another Brick in the Wall]
-[02Mar2025 01:31:36.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported HestorJC to adriii__]
-[02Mar2025 01:32:07.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[02Mar2025 01:32:08.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported HestorJC to theJoJonny]
-[02Mar2025 01:32:20.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[02Mar2025 01:32:40.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
-[02Mar2025 01:33:09.170] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[02Mar2025 01:34:05.006] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[02Mar2025 01:34:14.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to HestorJC]
-[02Mar2025 01:34:53.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12515, y=81, z=8080} BlockPos{x=12515, y=79, z=8080}
-[02Mar2025 01:34:54.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12523, y=80, z=8076} BlockPos{x=12524, y=78, z=8076}
-[02Mar2025 01:34:54.727] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12523, y=80, z=8076} BlockPos{x=12524, y=78, z=8076}
-[02Mar2025 01:34:55.391] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12529, y=80, z=8073} BlockPos{x=12528, y=78, z=8074}
-[02Mar2025 01:34:55.443] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12529, y=80, z=8073} BlockPos{x=12528, y=78, z=8074}
-[02Mar2025 01:34:55.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=12530, y=80, z=8073} BlockPos{x=12530, y=78, z=8073}
-[02Mar2025 01:36:08.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12505.676336, 69.000000, 8137.666378]
-[02Mar2025 01:36:08.741] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
-[02Mar2025 01:36:08.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
-[02Mar2025 01:36:13.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12499.352236, 69.000000, 8145.611718]
-[02Mar2025 01:36:20.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12501.096220, 69.000000, 8141.735945]
-[02Mar2025 01:36:47.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
-[02Mar2025 01:36:51.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
-[02Mar2025 01:36:52.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: adriii__ moved too quickly! 7.52889760313883,2.0,-12.073103749215989
-[02Mar2025 01:37:34.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
-[02Mar2025 01:38:53.695] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:34599] logged in with entity id 111653 at (12561.182339218027, 76.0, 8069.615987672059)
-[02Mar2025 01:38:53.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
-[02Mar2025 01:39:37.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to adriii__]
-[02Mar2025 01:40:08.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [adriii__: Teleported adriii__ to 12496.500000, 68.000000, 8146.500000]
+[03Mar2025 00:38:22.447] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03Mar2025 00:38:22.452] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Mar2025 00:38:23.049] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Mar2025 00:38:23.103] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Mar2025 00:38:23.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 00:38:23.367] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 00:38:23.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 00:38:23.370] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 00:38:23.504] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[03Mar2025 00:38:25.551] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Mar2025 00:38:25.617] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Mar2025 00:38:25.748] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 00:38:25.759] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 00:38:25.767] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 00:38:25.861] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[03Mar2025 00:38:25.862] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[03Mar2025 00:38:25.879] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[03Mar2025 00:38:27.093] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Mar2025 00:38:27.667] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (7.610 s after launch)
+[03Mar2025 00:38:27.830] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Mar2025 00:38:27.831] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Mar2025 00:38:29.334] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1663 milliseconds
+[03Mar2025 00:38:33.118] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[03Mar2025 00:38:33.154] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[03Mar2025 00:38:33.155] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[03Mar2025 00:38:35.946] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[03Mar2025 00:38:35.957] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[03Mar2025 00:38:36.090] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[03Mar2025 00:38:36.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[03Mar2025 00:38:36.339] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Mar2025 00:38:36.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
+[03Mar2025 00:38:36.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Mar2025 00:38:36.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[03Mar2025 00:38:36.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Mar2025 00:38:36.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[03Mar2025 00:38:37.255] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[03Mar2025 00:38:37.259] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[03Mar2025 00:38:37.259] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[03Mar2025 00:38:37.289] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Mar2025 00:38:37.389] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[03Mar2025 00:38:37.625] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
+[03Mar2025 00:38:37.625] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
+[03Mar2025 00:38:39.251] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Mar2025 00:38:39.386] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[03Mar2025 00:38:39.388] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[03Mar2025 00:38:40.122] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[03Mar2025 00:38:40.248] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1857 advancements
+[03Mar2025 00:38:40.251] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[03Mar2025 00:38:40.303] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[03Mar2025 00:38:40.304] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[03Mar2025 00:38:40.304] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[03Mar2025 00:38:40.304] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[03Mar2025 00:38:40.305] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[03Mar2025 00:38:40.305] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[03Mar2025 00:38:40.305] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[03Mar2025 00:38:40.306] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[03Mar2025 00:38:40.306] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[03Mar2025 00:38:40.307] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[03Mar2025 00:38:40.307] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[03Mar2025 00:38:40.307] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[03Mar2025 00:38:40.309] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[03Mar2025 00:38:40.309] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[03Mar2025 00:38:40.309] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[03Mar2025 00:38:40.311] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[03Mar2025 00:38:40.311] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[03Mar2025 00:38:40.311] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[03Mar2025 00:38:40.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Mar2025 00:38:40.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Mar2025 00:38:40.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Mar2025 00:38:40.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Mar2025 00:38:40.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Mar2025 00:38:40.574] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Mar2025 00:38:40.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Mar2025 00:38:40.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Mar2025 00:38:40.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Mar2025 00:38:40.646] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Mar2025 00:38:40.665] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Mar2025 00:38:40.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Mar2025 00:38:41.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Mar2025 00:38:42.865] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 00:38:42.866] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 00:38:42.866] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 00:38:42.867] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 00:38:43.169] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 00:38:43.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2514 ms
+[03Mar2025 00:38:43.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.024s)! For help, type "help"
+[03Mar2025 00:38:43.717] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Mar2025 00:38:43.748] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[03Mar2025 00:38:43.750] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[03Mar2025 00:38:43.750] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[03Mar2025 00:38:43.751] [Server thread/WARN] [ModernFix/]: Dedicated server took 23.695 seconds to load
+[03Mar2025 00:44:06.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:55797] logged in with entity id 94 at (698.2496667384333, 9.0, 1157.7512222901044)
+[03Mar2025 00:44:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
+[03Mar2025 00:44:08.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Fox['Fox'/299, l='ServerLevel[world]', x=684.65, y=109.00, z=1265.36]
