@@ -104,3 +104,5 @@
 [03Mar2025 09:07:49.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:57517] logged in with entity id 184 at (173.6015544046433, 63.0, 181.1781717683868)
 [03Mar2025 09:07:49.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
 [03Mar2025 09:08:41.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/414, l='ServerLevel[world]', x=214.50, y=49.00, z=123.50]
+[03Mar2025 09:18:41.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=248, y=61, z=213} BlockPos{x=248, y=61, z=214}
+[03Mar2025 09:23:34.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5167, l='ServerLevel[world]', x=227.50, y=55.00, z=127.50]
