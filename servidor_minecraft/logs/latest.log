@@ -455,3 +455,11 @@
 [03Mar2025 05:27:36.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> te salite del dc
 [03Mar2025 05:28:09.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Sea? Not a Problem]
 [03Mar2025 05:31:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 05:46:32.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[03Mar2025 05:46:32.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
+[03Mar2025 05:46:50.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:55843] logged in with entity id 165285 at (12531.762499988079, 72.0, 8145.857400559027)
+[03Mar2025 05:46:50.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
+[03Mar2025 05:50:58.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[03Mar2025 05:50:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
+[03Mar2025 05:51:02.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:42077] logged in with entity id 166772 at (12532.087695141143, 72.875, 8142.6579741573)
+[03Mar2025 05:51:02.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
