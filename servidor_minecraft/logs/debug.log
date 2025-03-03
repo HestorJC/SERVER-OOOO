@@ -1902,3 +1902,46 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 09:19:53.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 09:19:53.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Mar2025 09:23:34.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5167, l='ServerLevel[world]', x=227.50, y=55.00, z=127.50]
+[03Mar2025 09:24:53.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 09:24:53.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 09:27:05.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=67, z=-18} BlockPos{x=120, y=66, z=-18}
+[03Mar2025 09:27:43.417] [Worker-Main-9/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mvs-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Mar2025 09:27:43.418] [Worker-Main-9/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Mar2025 09:27:43.418] [Worker-Main-9/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Mar2025 09:27:43.418] [Worker-Main-9/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[03Mar2025 09:27:43.419] [Worker-Main-9/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Mar2025 09:27:43.419] [Worker-Main-9/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[03Mar2025 09:27:43.421] [Worker-Main-9/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Mar2025 09:27:43.421] [Worker-Main-9/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[03Mar2025 09:27:43.620] [Worker-Main-10/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.unusualend.json into net.minecraft.world.level.levelgen.NoiseChunk
+[03Mar2025 09:27:44.640] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:mausoleum/building
+[03Mar2025 09:28:19.380] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[03Mar2025 09:28:19.434] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[03Mar2025 09:28:19.651] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/spruce_log_pile
+[03Mar2025 09:28:38.049] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[03Mar2025 09:28:41.839] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[03Mar2025 09:28:41.844] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[03Mar2025 09:28:41.848] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[03Mar2025 09:28:41.853] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[03Mar2025 09:28:41.856] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[03Mar2025 09:28:41.860] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[03Mar2025 09:28:41.864] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[03Mar2025 09:28:41.867] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[03Mar2025 09:28:41.871] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[03Mar2025 09:28:41.874] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[03Mar2025 09:28:41.878] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[03Mar2025 09:28:41.881] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[03Mar2025 09:28:41.896] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[03Mar2025 09:28:46.170] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[03Mar2025 09:28:46.638] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-20, y=-32, z=-457} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 09:28:46.684] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fire_camp
+[03Mar2025 09:28:51.398] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-176, y=-46, z=-481} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 09:29:53.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 09:29:53.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 09:30:10.331] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-407, y=7, z=-341} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 09:31:40.612] [Worker-Main-32/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-418, y=-29, z=-195} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 09:33:06.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.379705678732155
+[03Mar2025 09:33:06.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.379705678732155
+[03Mar2025 09:33:08.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.3934503143846275
+[03Mar2025 09:33:10.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.39730640425733615
+[03Mar2025 09:33:22.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.2896475505906361

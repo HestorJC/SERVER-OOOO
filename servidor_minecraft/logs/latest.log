@@ -106,3 +106,9 @@
 [03Mar2025 09:08:41.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/414, l='ServerLevel[world]', x=214.50, y=49.00, z=123.50]
 [03Mar2025 09:18:41.676] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=248, y=61, z=213} BlockPos{x=248, y=61, z=214}
 [03Mar2025 09:23:34.742] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/5167, l='ServerLevel[world]', x=227.50, y=55.00, z=127.50]
+[03Mar2025 09:27:05.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=121, y=67, z=-18} BlockPos{x=120, y=66, z=-18}
+[03Mar2025 09:33:06.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.379705678732155
+[03Mar2025 09:33:06.489] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.379705678732155
+[03Mar2025 09:33:08.899] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.3934503143846275
+[03Mar2025 09:33:10.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.39730640425733615
+[03Mar2025 09:33:22.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.2896475505906361
