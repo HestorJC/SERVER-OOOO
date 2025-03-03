@@ -2079,3 +2079,43 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 11:09:53.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [03Mar2025 11:14:53.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 11:14:53.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 11:18:29.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Take Aim]
+[03Mar2025 11:19:53.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 11:19:53.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 11:19:58.874] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1255, y=-14, z=-1082} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:20:12.580] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=1325, y=-3, z=-1007} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:20:24.718] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=1378, y=-45, z=-832} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:20:28.481] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1215, y=-45, z=-1203} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:20:29.562] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1406, y=-47, z=-1102} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:20:41.904] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 11:20:41.907] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/stone_bee
+[03Mar2025 11:20:48.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.350] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:58.681] [Worker-Main-32/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 11:21:00.121] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=1277, y=-46, z=-1305} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:21:15.288] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=1168, y=-16, z=-1413} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:21:23.170] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1558, y=57, z=-1016} at Chest with:minecraft:chests/ruined_portal
+[03Mar2025 11:21:26.017] [Worker-Main-32/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=1571, y=-42, z=-1302} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:21:43.282] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/villager_statue
+[03Mar2025 11:21:50.312] [Worker-Main-32/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1717, y=-26, z=-1490} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:22:21.753] [Worker-Main-32/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=1564, y=-7, z=-1575} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:23:04.823] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=1810, y=-34, z=-1349} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:23:20.083] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=1509, y=-43, z=-1724} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:23:32.690] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=1786, y=-25, z=-1764} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:23:36.539] [Worker-Main-32/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=1889, y=-48, z=-1662} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:23:45.553] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:ruins/statue_ruins
+[03Mar2025 11:23:51.591] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/mushroom_statue
+[03Mar2025 11:23:59.178] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 11:23:59.426] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=1768, y=30, z=-1853} at Chest with:minecraft:chests/stronghold_library
+[03Mar2025 11:24:11.453] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1971, y=4, z=-1517} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:24:38.266] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1589, y=-18, z=-1957} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:24:53.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 11:24:53.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 11:25:11.090] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[03Mar2025 11:25:25.018] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=1891, y=84, z=-2155} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:25:37.537] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1763, y=-7, z=-2193} at Chest with:minecraft:chests/simple_dungeon

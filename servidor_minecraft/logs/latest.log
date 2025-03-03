@@ -176,3 +176,14 @@
 [03Mar2025 10:56:29.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/31711, l='ServerLevel[world]', x=483.81, y=63.00, z=-309.83] died: Klaudius Bloodglare was slain by HestorJC
 [03Mar2025 11:03:34.119] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
 [03Mar2025 11:09:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> ads
+[03Mar2025 11:18:29.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Take Aim]
+[03Mar2025 11:20:41.904] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 11:20:48.147] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.246] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.350] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.453] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.552] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.647] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:48.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 11:20:58.681] [Worker-Main-32/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 11:23:59.178] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
