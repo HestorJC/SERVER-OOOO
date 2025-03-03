@@ -215,3 +215,6 @@
 [03Mar2025 01:57:49.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:60907] logged in with entity id 28316 at (710.6611919300458, 65.0625, 2902.765249420197)
 [03Mar2025 01:57:49.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
 [03Mar2025 01:57:58.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
+[03Mar2025 02:02:43.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 02:05:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Chompy]
+[03Mar2025 02:08:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Dragonslayer]
