@@ -3869,6 +3869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-03-03 11:07:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_gold": {
     "criteria": {
       "has_raw_gold_block": "2025-03-03 11:02:38 +0000"

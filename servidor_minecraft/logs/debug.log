@@ -2063,3 +2063,19 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 11:04:18.710] [Worker-Main-32/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=921, y=-21, z=-564} at Chest with:minecraft:chests/simple_dungeon
 [03Mar2025 11:04:53.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [03Mar2025 11:04:53.827] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 11:05:32.038] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=685, y=-20, z=-742} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:05:38.061] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/mushroom_well
+[03Mar2025 11:06:11.739] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=1019, y=-42, z=-527} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:06:13.433] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=643, y=-38, z=-946} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:06:18.414] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=885, y=45, z=-969} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:06:21.972] [Worker-Main-10/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/small_swamp_house
+[03Mar2025 11:06:22.572] [Worker-Main-32/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:sunzi_gate
+[03Mar2025 11:06:43.565] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=1081, y=65, z=-855} at Chest with:minecraft:chests/buried_treasure
+[03Mar2025 11:06:44.115] [Worker-Main-10/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=1074, y=-40, z=-1040} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 11:09:02.361] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=678, y=66, z=-1136} at Chest with:minecraft:chests/shipwreck_map
+[03Mar2025 11:09:22.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> ads
+[03Mar2025 11:09:35.514] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=779, y=48, z=-1204} at Chest with:minecraft:chests/underwater_ruin_small
+[03Mar2025 11:09:53.817] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 11:09:53.823] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 11:14:53.818] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 11:14:53.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
