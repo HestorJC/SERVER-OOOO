@@ -25,12 +25,14 @@
       "minecraft:stony_shore": "2025-03-01 03:59:32 +0000",
       "minecraft:snowy_taiga": "2025-03-01 07:49:47 +0000",
       "minecraft:grove": "2025-03-01 06:22:38 +0000",
+      "minecraft:swamp": "2025-03-03 03:56:17 +0000",
       "minecraft:jagged_peaks": "2025-03-01 06:22:45 +0000",
       "minecraft:cold_ocean": "2025-03-01 04:27:48 +0000",
       "minecraft:forest": "2025-03-01 04:24:18 +0000",
       "minecraft:lush_caves": "2025-03-01 07:43:38 +0000",
       "minecraft:deep_cold_ocean": "2025-03-01 07:55:51 +0000",
       "minecraft:frozen_ocean": "2025-03-01 07:55:07 +0000",
+      "minecraft:windswept_forest": "2025-03-03 03:53:50 +0000",
       "minecraft:ocean": "2025-03-01 06:26:58 +0000",
       "minecraft:jungle": "2025-03-01 07:13:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-01 05:49:33 +0000",
@@ -3185,9 +3187,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-03 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-03-03 03:43:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2025-03-03 03:41:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-03-03 03:12:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-03 03:55:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-03-03 03:55:12 +0000"
     },
     "done": true
   },
@@ -3200,6 +3232,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-03-03 03:29:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-03-03 03:55:12 +0000"
     },
     "done": true
   },

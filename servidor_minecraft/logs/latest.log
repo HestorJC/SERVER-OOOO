@@ -325,3 +325,30 @@
 [03Mar2025 03:32:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Ice Bucket Challenge]
 [03Mar2025 03:36:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Total Beelocation]
 [03Mar2025 03:36:19.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
+[03Mar2025 03:41:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 03:41:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Dragonslayer]
+[03Mar2025 03:43:30.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 03:44:51.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Chompy]
+[03Mar2025 03:45:27.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
+[03Mar2025 03:45:52.242] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
+[03Mar2025 03:45:52.244] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
+[03Mar2025 03:47:08.049] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 03:47:21.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [What a Deal!]
+[03Mar2025 03:48:24.246] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[03Mar2025 03:48:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 03:49:16.065] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 03:49:29.773] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 03:49:42.514] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 03:50:07.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/92184, l='ServerLevel[world]', x=-758.81, y=63.00, z=6684.93] died, message: 'Villager was shot by Stymphalian Bird'
+[03Mar2025 03:50:52.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/91402, l='ServerLevel[world]', x=-739.51, y=79.00, z=6615.49] died, message: 'Villager was shot by Stymphalian Bird'
+[03Mar2025 03:51:25.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Herc was on a Roll!]
+[03Mar2025 03:53:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 03:54:47.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 03:55:09.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 03:55:09.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 03:55:30.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:46433] logged in with entity id 95385 at (-816.7488683593353, 86.0, 6594.699999988079)
+[03Mar2025 03:55:30.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 03:57:39.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 03:58:24.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/91499, l='ServerLevel[world]', x=-744.51, y=80.00, z=6617.57] died, message: 'Librarian was shot by Stymphalian Bird'
+[03Mar2025 03:59:03.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 03:59:39.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/92185, l='ServerLevel[world]', x=-755.07, y=71.00, z=6638.31] died, message: 'Leatherworker was shot by Stymphalian Bird'
