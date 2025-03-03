@@ -3001,5 +3001,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-03-03 03:19:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

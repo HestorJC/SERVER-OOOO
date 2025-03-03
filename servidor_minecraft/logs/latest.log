@@ -310,3 +310,15 @@
 [03Mar2025 03:20:24.796] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [03Mar2025 03:20:24.796] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [03Mar2025 03:20:24.796] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Mar2025 03:25:20.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [My Name is Nobody]
+[03Mar2025 03:26:40.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 03:26:40.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 03:27:03.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[03Mar2025 03:27:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
+[03Mar2025 03:27:05.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:44295] logged in with entity id 77867 at (116.23823409847238, 87.0, 265.0669487675013)
+[03Mar2025 03:27:05.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 03:27:08.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:46245] logged in with entity id 77907 at (166.40401908010287, 71.0, 5606.198040862483)
+[03Mar2025 03:27:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
+[03Mar2025 03:29:29.253] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 03:29:39.113] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 03:30:12.932] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
