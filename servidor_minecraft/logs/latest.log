@@ -164,3 +164,14 @@
 [03Mar2025 10:38:23.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asds
 [03Mar2025 10:44:59.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.2646001788629536
 [03Mar2025 10:45:05.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [A Bone to Pick]
+[03Mar2025 10:53:00.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.5926990702942748
+[03Mar2025 10:53:05.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.7375217424607097
+[03Mar2025 10:53:10.939] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.8291427536668526
+[03Mar2025 10:53:11.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.789937573198432
+[03Mar2025 10:53:11.950] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.8024825931606174
+[03Mar2025 10:53:11.984] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hippocampus (vehicle of HestorJC) moved wrongly! 0.8024825931606174
+[03Mar2025 10:55:17.780] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 10:55:37.571] [Worker-Main-9/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 10:56:02.851] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03Mar2025 10:56:29.883] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Klaudius Bloodglare'/31711, l='ServerLevel[world]', x=483.81, y=63.00, z=-309.83] died: Klaudius Bloodglare was slain by HestorJC
+[03Mar2025 11:03:34.119] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
