@@ -11,11 +11,13 @@
       "minecraft:old_growth_pine_taiga": "2025-03-01 05:28:04 +0000",
       "minecraft:taiga": "2025-03-01 05:26:45 +0000",
       "minecraft:deep_ocean": "2025-03-01 07:12:40 +0000",
+      "minecraft:eroded_badlands": "2025-03-03 11:58:13 +0000",
       "minecraft:frozen_river": "2025-03-01 07:50:39 +0000",
       "minecraft:cherry_grove": "2025-03-01 07:30:10 +0000",
       "minecraft:sunflower_plains": "2025-03-01 22:53:31 +0000",
       "minecraft:birch_forest": "2025-03-01 06:26:17 +0000",
       "minecraft:bamboo_jungle": "2025-03-01 06:41:58 +0000",
+      "minecraft:badlands": "2025-03-03 11:55:40 +0000",
       "minecraft:savanna_plateau": "2025-03-03 05:18:00 +0000",
       "minecraft:beach": "2025-03-01 06:30:00 +0000",
       "minecraft:dark_forest": "2025-03-01 05:42:17 +0000",
@@ -3869,15 +3871,75 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-03-03 12:01:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-03-03 12:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-03 12:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-03-03 12:01:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_boots": {
     "criteria": {
       "has_item": "2025-03-03 11:18:46 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-03-03 12:01:53 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_blue_leggings": {
     "criteria": {
       "has_item": "2025-03-03 11:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
     },
     "done": true
   },
@@ -3893,6 +3955,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2025-03-03 12:01:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_boots": {
     "criteria": {
       "has_item": "2025-03-03 11:51:44 +0000"
@@ -3905,15 +3979,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_amythest_leggings": {
     "criteria": {
       "has_item": "2025-03-03 11:51:44 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_jukebox_upgrade": {
     "criteria": {
       "has_jukebox_upgrade": "2025-03-03 11:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
     },
     "done": true
   },
@@ -3941,6 +4039,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-03-03 11:57:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_black_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-03 09:25:26 +0000"
@@ -3950,6 +4054,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-03-03 10:08:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-03-03 11:57:31 +0000"
     },
     "done": true
   },
@@ -3977,6 +4087,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_helmet": {
     "criteria": {
       "has_item": "2025-03-03 11:30:20 +0000"
@@ -3998,6 +4120,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
     "criteria": {
       "has_dragonscales_amythest": "2025-03-03 11:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
     },
     "done": true
   },
@@ -4025,6 +4159,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_boots": {
     "criteria": {
       "has_item": "2025-03-03 11:30:20 +0000"
@@ -4040,6 +4180,18 @@
   "iceandfire:recipes/building_blocks/dragonscales_blue_to_dragonscale_blue": {
     "criteria": {
       "has_dragonscales_blue": "2025-03-03 11:18:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-03-03 12:01:39 +0000"
     },
     "done": true
   },

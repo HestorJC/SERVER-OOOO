@@ -224,3 +224,6 @@
 [03Mar2025 11:52:59.730] [Worker-Main-32/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [03Mar2025 11:53:20.940] [Worker-Main-32/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
 [03Mar2025 11:53:25.040] [Worker-Main-10/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 12:01:53.119] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Chrz the quick'/66365, l='ServerLevel[world]', x=1986.32, y=94.50, z=-6710.58] died: Chrz the quick was slain by HestorJC
+[03Mar2025 12:04:04.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
+[03Mar2025 12:04:04.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
