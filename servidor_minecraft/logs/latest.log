@@ -439,3 +439,19 @@
 [03Mar2025 05:11:22.546] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [03Mar2025 05:11:22.546] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [03Mar2025 05:11:22.546] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[03Mar2025 05:12:33.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/149620, l='ServerLevel[world]', x=-5382.28, y=60.04, z=4971.63] died, message: 'Villager drowned'
+[03Mar2025 05:12:33.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/149621, l='ServerLevel[world]', x=-5380.63, y=60.04, z=4971.72] died, message: 'Villager drowned'
+[03Mar2025 05:12:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 05:14:41.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 05:19:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 05:19:33.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/150323, l='ServerLevel[world]', x=-5462.00, y=78.00, z=4878.30] died: Ewart the Cold was slain by Gabsterzx
+[03Mar2025 05:20:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [We do a little trolling...]
+[03Mar2025 05:24:28.328] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 05:24:47.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 05:26:37.741] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 05:27:25.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [We Just Want our Hat Back]
+[03Mar2025 05:27:31.646] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 05:27:31.646] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 05:27:36.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> te salite del dc
+[03Mar2025 05:28:09.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Sea? Not a Problem]
+[03Mar2025 05:31:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
