@@ -31,6 +31,7 @@
       "minecraft:beach": "2025-03-01 06:30:19 +0000",
       "minecraft:dark_forest": "2025-03-01 06:28:18 +0000",
       "minecraft:stony_peaks": "2025-03-03 02:46:03 +0000",
+      "minecraft:mangrove_swamp": "2025-03-03 17:11:15 +0000",
       "minecraft:sparse_jungle": "2025-03-01 06:46:22 +0000",
       "minecraft:river": "2025-03-01 04:31:27 +0000",
       "minecraft:lukewarm_ocean": "2025-03-01 06:51:10 +0000",
@@ -3419,6 +3420,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:10:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-03 17:08:56 +0000"
     },
     "done": true
   },

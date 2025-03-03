@@ -21,6 +21,7 @@
       "minecraft:savanna_plateau": "2025-03-03 05:18:00 +0000",
       "minecraft:beach": "2025-03-01 06:30:00 +0000",
       "minecraft:dark_forest": "2025-03-01 05:42:17 +0000",
+      "minecraft:mangrove_swamp": "2025-03-03 17:10:04 +0000",
       "minecraft:sparse_jungle": "2025-03-01 06:58:06 +0000",
       "minecraft:river": "2025-03-01 04:22:09 +0000",
       "minecraft:lukewarm_ocean": "2025-03-01 07:08:25 +0000",
@@ -4469,6 +4470,12 @@
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-03-03 16:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-03-03 17:08:58 +0000"
     },
     "done": true
   },

@@ -3079,3 +3079,90 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 17:02:37.642] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
 [03Mar2025 17:02:37.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
 [03Mar2025 17:02:37.740] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2066, y=81, z=-1664} BlockPos{x=-2067, y=81, z=-1664}
+[03Mar2025 17:04:13.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2180, y=106, z=-1672} BlockPos{x=-2180, y=106, z=-1671}
+[03Mar2025 17:04:13.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2180, y=106, z=-1672} BlockPos{x=-2180, y=106, z=-1671}
+[03Mar2025 17:04:13.239] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2180, y=106, z=-1672} BlockPos{x=-2180, y=106, z=-1671}
+[03Mar2025 17:04:13.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2180, y=106, z=-1672} BlockPos{x=-2180, y=106, z=-1671}
+[03Mar2025 17:04:13.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2180, y=106, z=-1672} BlockPos{x=-2180, y=106, z=-1671}
+[03Mar2025 17:04:22.741] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=111, z=-1655} BlockPos{x=-2182, y=111, z=-1654}
+[03Mar2025 17:04:22.793] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=111, z=-1655} BlockPos{x=-2182, y=111, z=-1654}
+[03Mar2025 17:04:22.840] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=111, z=-1655} BlockPos{x=-2182, y=111, z=-1654}
+[03Mar2025 17:04:22.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=111, z=-1655} BlockPos{x=-2182, y=111, z=-1654}
+[03Mar2025 17:04:22.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=111, z=-1655} BlockPos{x=-2182, y=111, z=-1654}
+[03Mar2025 17:04:22.990] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2182, y=111, z=-1655} BlockPos{x=-2182, y=111, z=-1654}
+[03Mar2025 17:05:00.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 17:05:36.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 17:06:25.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Spectator Mode]
+[03Mar2025 17:06:34.876] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49765, l='ServerLevel[world]', x=-2426.00, y=31.00, z=-1655.00] as it would cause deadlock
+[03Mar2025 17:06:40.209] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/49776, l='ServerLevel[world]', x=-2520.00, y=31.00, z=-1721.00] as it would cause deadlock
+[03Mar2025 17:06:52.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! -9.78758596628586,3.2392347927540186,-5.035550638816858
+[03Mar2025 17:07:04.329] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50033, l='ServerLevel[world]', x=-2595.00, y=31.00, z=-2341.00] as it would cause deadlock
+[03Mar2025 17:07:06.346] [Worker-Main-33/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50065, l='ServerLevel[world]', x=-2645.00, y=31.00, z=-2155.00] as it would cause deadlock
+[03Mar2025 17:07:08.128] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50110, l='ServerLevel[world]', x=-2657.00, y=31.00, z=-2199.00] as it would cause deadlock
+[03Mar2025 17:07:08.206] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50114, l='ServerLevel[world]', x=-2663.00, y=31.00, z=-2414.00] as it would cause deadlock
+[03Mar2025 17:07:08.548] [Worker-Main-1/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50120, l='ServerLevel[world]', x=-2685.00, y=31.00, z=-2317.00] as it would cause deadlock
+[03Mar2025 17:07:11.619] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50177, l='ServerLevel[world]', x=-2659.00, y=31.00, z=-2423.00] as it would cause deadlock
+[03Mar2025 17:07:11.620] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50180, l='ServerLevel[world]', x=-2619.00, y=31.00, z=-2425.00] as it would cause deadlock
+[03Mar2025 17:07:15.158] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:piglinbruteboss at BlockPos{x=-2760, y=59, z=-2245} at Chest with:minecraft:chests/bastion_other
+[03Mar2025 17:07:18.856] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/50362, l='ServerLevel[world]', x=-2798.00, y=31.00, z=-2182.00] as it would cause deadlock
+[03Mar2025 17:07:35.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 17:07:35.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 17:07:54.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Survival Mode]
+[03Mar2025 17:07:56.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 17:08:52.442] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[03Mar2025 17:08:52.458] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 17:08:52.458] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 17:08:52.481] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/mushroom_statue
+[03Mar2025 17:08:52.727] [Worker-Main-38/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 17:08:54.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has completed the challenge [Subspace Bubble]
+[03Mar2025 17:08:54.230] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[03Mar2025 17:08:54.355] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[03Mar2025 17:08:54.367] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[03Mar2025 17:08:55.262] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[03Mar2025 17:08:56.147] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[03Mar2025 17:08:56.152] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[03Mar2025 17:08:56.156] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/rocky_well
+[03Mar2025 17:08:56.160] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[03Mar2025 17:08:56.164] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[03Mar2025 17:08:56.168] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[03Mar2025 17:08:56.174] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[03Mar2025 17:08:56.178] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[03Mar2025 17:08:56.182] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[03Mar2025 17:08:56.185] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[03Mar2025 17:08:56.350] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:gallows
+[03Mar2025 17:08:56.703] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4372ms or 87 ticks behind
+[03Mar2025 17:08:56.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has completed the challenge [Subspace Bubble]
+[03Mar2025 17:08:56.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to theJoJonny]
+[03Mar2025 17:08:58.027] [Worker-Main-33/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 17:08:58.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has completed the challenge [Subspace Bubble]
+[03Mar2025 17:08:58.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 17:09:00.718] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-16283, y=-42, z=-13545} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:09:01.938] [Worker-Main-33/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/flower_hole
+[03Mar2025 17:09:10.074] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-16538, y=7, z=-13519} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:09:11.910] [Worker-Main-33/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-16376, y=-38, z=-13694} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:09:22.623] [Worker-Main-33/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-16262, y=37, z=-13732} at Chest with:minecraft:chests/desert_pyramid
+[03Mar2025 17:09:26.019] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-16435, y=41, z=-13753} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:09:28.684] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:phantomboss at BlockPos{x=-16636, y=65, z=-13756} at Chest with:minecraft:chests/ruined_portal
+[03Mar2025 17:09:41.785] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-16382, y=-17, z=-13284} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:09:46.909] [Worker-Main-39/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/fox_hut
+[03Mar2025 17:09:48.603] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-16208, y=-2, z=-13297} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:09:51.028] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:stall/orange_stall
+[03Mar2025 17:10:21.846] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-16697, y=-40, z=-13569} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:10:58.531] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/small_swamp_house
+[03Mar2025 17:11:04.489] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-15896, y=-44, z=-13398} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:11:07.739] [Worker-Main-38/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 17:11:08.620] [Worker-Main-39/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-16027, y=-52, z=-13217} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:11:13.025] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-15886, y=-23, z=-13217} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:11:15.361] [Worker-Main-33/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 17:11:20.373] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-15809, y=57, z=-13550} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:11:29.288] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-16409, y=18, z=-13185} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:11:29.292] [Worker-Main-38/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-16525, y=-4, z=-13174} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:11:32.279] [Worker-Main-33/DEBUG] [ModernFix/]: Structure mvs:carts/large_cart_2 is being run through DFU (hash 39331a0fadf7488ba015d632785430b8c56cd11dc7f829abfa2ff95694470792), this will cause launch time delays
+[03Mar2025 17:11:37.455] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-16086, y=-6, z=-13135} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:11:43.610] [Worker-Main-33/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-15915, y=-47, z=-13119} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:12:15.681] [Worker-Main-9/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-16701, y=-15, z=-13154} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 17:12:21.669] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 17:12:28.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to theJoJonny]
+[03Mar2025 17:12:31.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 17:12:39.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 17:12:39.775] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
