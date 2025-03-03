@@ -352,3 +352,9 @@
 [03Mar2025 03:58:24.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/91499, l='ServerLevel[world]', x=-744.51, y=80.00, z=6617.57] died, message: 'Librarian was shot by Stymphalian Bird'
 [03Mar2025 03:59:03.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
 [03Mar2025 03:59:39.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/92185, l='ServerLevel[world]', x=-755.07, y=71.00, z=6638.31] died, message: 'Leatherworker was shot by Stymphalian Bird'
+[03Mar2025 04:01:47.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 04:03:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 04:06:03.097] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 04:07:47.742] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[03Mar2025 04:08:21.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx moved too quickly! -7.231105646137166,1.229169537072842,9.427242425508666
+[03Mar2025 04:08:24.416] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
