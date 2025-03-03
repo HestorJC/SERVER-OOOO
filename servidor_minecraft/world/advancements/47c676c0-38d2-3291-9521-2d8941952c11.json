@@ -546,6 +546,7 @@
     "criteria": {
       "cooked_mutton": "2025-03-01 04:05:10 +0000",
       "sweet_berries": "2025-03-01 06:57:20 +0000",
+      "cooked_beef": "2025-03-03 07:09:20 +0000",
       "bread": "2025-03-01 04:24:33 +0000",
       "golden_apple": "2025-03-01 08:28:05 +0000",
       "rotten_flesh": "2025-03-01 08:46:55 +0000",
@@ -2967,6 +2968,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-03-03 07:06:47 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-03-03 05:56:53 +0000"
@@ -2976,6 +2983,12 @@
   "iceandfire:iceandfire/dragonbone_flaming_sword": {
     "criteria": {
       "sword": "2025-03-03 06:45:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-03-03 07:06:54 +0000"
     },
     "done": true
   },
@@ -2991,9 +3004,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-03 07:05:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-03-03 07:03:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-03-03 07:06:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_ice": {
     "criteria": {
       "has_item": "2025-03-03 06:40:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-03-03 07:05:29 +0000"
     },
     "done": true
   },
