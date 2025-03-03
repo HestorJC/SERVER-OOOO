@@ -428,6 +428,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-01 05:50:23 +0000",
       "minecraft:skeleton": "2025-03-01 04:33:24 +0000",
+      "minecraft:guardian": "2025-03-03 03:18:15 +0000",
       "minecraft:vindicator": "2025-03-03 01:53:40 +0000",
       "minecraft:spider": "2025-03-01 04:03:06 +0000",
       "minecraft:creeper": "2025-03-01 04:02:56 +0000",
@@ -2697,6 +2698,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-03-03 03:18:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-03 03:01:46 +0000"
@@ -2709,9 +2716,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-03-03 03:12:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-03-03 03:01:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-03-03 03:18:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-03-03 03:18:16 +0000"
     },
     "done": true
   },
