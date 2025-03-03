@@ -34,6 +34,7 @@
       "minecraft:jungle": "2025-03-01 07:12:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-03-01 05:49:35 +0000",
       "minecraft:flower_forest": "2025-03-02 00:47:56 +0000",
+      "minecraft:frozen_peaks": "2025-03-03 03:02:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-01 05:40:24 +0000",
       "minecraft:meadow": "2025-03-01 04:37:49 +0000",
       "minecraft:savanna": "2025-03-03 01:28:52 +0000",
@@ -2913,6 +2914,90 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-03-03 02:05:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-03-03 02:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-03-03 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-03-03 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-03-03 02:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-03 02:59:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-03-03 02:59:53 +0000"
     },
     "done": true
   },

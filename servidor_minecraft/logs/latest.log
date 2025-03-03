@@ -218,3 +218,78 @@
 [03Mar2025 02:02:43.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
 [03Mar2025 02:05:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Chompy]
 [03Mar2025 02:08:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Dragonslayer]
+[03Mar2025 02:10:58.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 02:17:06.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 02:17:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 02:17:10.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 300.500000, 80.000000, 250.500000]
+[03Mar2025 02:17:36.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/36147, l='ServerLevel[world]', x=262.03, y=58.91, z=15.98]
+[03Mar2025 02:17:50.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:50087] logged in with entity id 36330 at (200.5, 73.0, 237.5)
+[03Mar2025 02:17:50.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 02:20:58.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=240, y=63, z=235} BlockPos{x=240, y=62, z=235}
+[03Mar2025 02:21:17.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
+[03Mar2025 02:24:50.800] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 02:24:53.191] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 02:29:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to Gabsterzx]
+[03Mar2025 02:30:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
+[03Mar2025 02:30:06.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 02:30:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 02:30:22.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> afsa
+[03Mar2025 02:30:22.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
+[03Mar2025 02:30:22.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[03Mar2025 02:30:47.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:55861] logged in with entity id 43164 at (506.49303972192206, 82.0, 2999.1896742164718)
+[03Mar2025 02:30:47.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 02:31:02.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:47337] logged in with entity id 43607 at (506.49303972192206, 82.0, 2999.1896742164718)
+[03Mar2025 02:31:02.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[03Mar2025 02:31:02.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to theJoJonny]
+[03Mar2025 02:31:11.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pelgrim the Sharpshooter'/43183, l='ServerLevel[world]', x=509.10, y=83.50, z=2997.70] died: Pelgrim the Sharpshooter was slain by Gabsterzx
+[03Mar2025 02:31:17.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 02:31:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 02:31:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> aaaa
+[03Mar2025 02:31:32.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
+[03Mar2025 02:31:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[03Mar2025 02:31:58.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:44003] logged in with entity id 43751 at (506.49303972192206, 82.0, 2999.1896742164718)
+[03Mar2025 02:31:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[03Mar2025 02:32:12.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:57871] logged in with entity id 43801 at (506.49303972192206, 82.0, 2999.1896742164718)
+[03Mar2025 02:32:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 02:32:42.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 02:32:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 02:34:04.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:44117] logged in with entity id 44139 at (506.49303972192206, 82.0, 2999.1896742164718)
+[03Mar2025 02:34:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 02:34:34.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 02:34:34.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 02:35:16.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:37641] logged in with entity id 44413 at (506.49303972192206, 82.0, 2999.1896742164718)
+[03Mar2025 02:35:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 02:37:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 300.500000, 80.000000, 250.500000]
+[03Mar2025 02:41:37.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 300.500000, 80.000000, 250.500000]
+[03Mar2025 02:44:47.793] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 02:44:53.619] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 02:45:01.473] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[03Mar2025 02:48:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
+[03Mar2025 02:48:47.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 02:48:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 02:49:10.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:39019] logged in with entity id 54206 at (178.3387290009896, 63.0, 179.87580073307743)
+[03Mar2025 02:49:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 02:49:54.048] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[03Mar2025 02:52:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Begun, The Emu War Has]
+[03Mar2025 02:52:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asdsds
+[03Mar2025 02:53:00.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
+[03Mar2025 02:53:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
+[03Mar2025 02:53:02.358] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 02:53:15.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:48425] logged in with entity id 56744 at (178.58867029888526, 64.24918707874468, 179.90268711909044)
+[03Mar2025 02:53:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[03Mar2025 02:53:23.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> aydios
+[03Mar2025 02:54:59.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/44919, l='ServerLevel[world]', x=216.15, y=64.56, z=187.14] died, message: 'Toolsmith was slain by Zombie'
+[03Mar2025 02:55:01.048] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 02:55:58.744] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 02:56:29.263] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 02:56:29.267] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 02:57:11.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[03Mar2025 02:57:11.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
+[03Mar2025 02:57:19.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:43893] logged in with entity id 59973 at (-23.118508165987027, 63.0, 4130.702090205668)
+[03Mar2025 02:57:19.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
+[03Mar2025 03:07:17.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
+[03Mar2025 03:07:42.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
+[03Mar2025 03:07:42.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
+[03Mar2025 03:08:23.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:58409] logged in with entity id 67247 at (228.17624563325793, 67.0, 233.71421894800784)
+[03Mar2025 03:08:23.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
+[03Mar2025 03:08:57.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
