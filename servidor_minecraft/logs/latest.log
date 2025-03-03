@@ -1,574 +1,106 @@
-[03Mar2025 00:38:22.447] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[03Mar2025 00:38:22.452] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
-[03Mar2025 00:38:23.049] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[03Mar2025 00:38:23.103] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[03Mar2025 00:38:23.365] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
-[03Mar2025 00:38:23.367] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[03Mar2025 00:38:23.368] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[03Mar2025 00:38:23.370] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
-[03Mar2025 00:38:23.504] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
-[03Mar2025 00:38:25.551] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[03Mar2025 00:38:25.617] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[03Mar2025 00:38:25.748] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Mar2025 00:38:25.759] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Mar2025 00:38:25.767] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[03Mar2025 00:38:25.861] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
-[03Mar2025 00:38:25.862] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[03Mar2025 00:38:25.879] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[03Mar2025 00:38:27.093] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03Mar2025 00:38:27.667] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (7.610 s after launch)
-[03Mar2025 00:38:27.830] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[03Mar2025 00:38:27.831] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[03Mar2025 00:38:29.334] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1663 milliseconds
-[03Mar2025 00:38:33.118] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
-[03Mar2025 00:38:33.154] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
-[03Mar2025 00:38:33.155] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
-[03Mar2025 00:38:35.946] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
-[03Mar2025 00:38:35.957] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
-[03Mar2025 00:38:36.090] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[03Mar2025 00:38:36.177] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
-[03Mar2025 00:38:36.339] [main/INFO] [journeymap/]: Initializing Packet Registries
-[03Mar2025 00:38:36.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
-[03Mar2025 00:38:36.671] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[03Mar2025 00:38:36.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
-[03Mar2025 00:38:36.771] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
-[03Mar2025 00:38:36.852] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
-[03Mar2025 00:38:37.255] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
-[03Mar2025 00:38:37.259] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
-[03Mar2025 00:38:37.259] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
-[03Mar2025 00:38:37.289] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03Mar2025 00:38:37.389] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[03Mar2025 00:38:37.625] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
-[03Mar2025 00:38:37.625] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
-[03Mar2025 00:38:39.251] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
-[03Mar2025 00:38:39.386] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[03Mar2025 00:38:39.388] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
-[03Mar2025 00:38:40.122] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
-[03Mar2025 00:38:40.248] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1857 advancements
-[03Mar2025 00:38:40.251] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
-[03Mar2025 00:38:40.303] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
-[03Mar2025 00:38:40.304] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
-[03Mar2025 00:38:40.304] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
-[03Mar2025 00:38:40.304] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[03Mar2025 00:38:40.305] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
-[03Mar2025 00:38:40.305] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
-[03Mar2025 00:38:40.305] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
-[03Mar2025 00:38:40.306] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[03Mar2025 00:38:40.306] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[03Mar2025 00:38:40.307] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[03Mar2025 00:38:40.307] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[03Mar2025 00:38:40.307] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
-[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
-[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
-[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
-[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
-[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
-[03Mar2025 00:38:40.308] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
-[03Mar2025 00:38:40.309] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
-[03Mar2025 00:38:40.309] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
-[03Mar2025 00:38:40.309] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
-[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
-[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
-[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
-[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
-[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
-[03Mar2025 00:38:40.310] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
-[03Mar2025 00:38:40.311] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
-[03Mar2025 00:38:40.311] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
-[03Mar2025 00:38:40.311] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
-[03Mar2025 00:38:40.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
-[03Mar2025 00:38:40.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[03Mar2025 00:38:40.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[03Mar2025 00:38:40.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[03Mar2025 00:38:40.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[03Mar2025 00:38:40.574] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[03Mar2025 00:38:40.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03Mar2025 00:38:40.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[03Mar2025 00:38:40.645] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03Mar2025 00:38:40.646] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[03Mar2025 00:38:40.665] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[03Mar2025 00:38:40.786] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[03Mar2025 00:38:41.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[03Mar2025 00:38:42.865] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Mar2025 00:38:42.866] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Mar2025 00:38:42.866] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Mar2025 00:38:42.867] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Mar2025 00:38:43.169] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[03Mar2025 00:38:43.682] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2514 ms
-[03Mar2025 00:38:43.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.024s)! For help, type "help"
-[03Mar2025 00:38:43.717] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[03Mar2025 00:38:43.748] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
-[03Mar2025 00:38:43.750] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
-[03Mar2025 00:38:43.750] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
-[03Mar2025 00:38:43.751] [Server thread/WARN] [ModernFix/]: Dedicated server took 23.695 seconds to load
-[03Mar2025 00:44:06.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:55797] logged in with entity id 94 at (698.2496667384333, 9.0, 1157.7512222901044)
-[03Mar2025 00:44:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
-[03Mar2025 00:44:08.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Fox['Fox'/299, l='ServerLevel[world]', x=684.65, y=109.00, z=1265.36]
-[03Mar2025 00:52:27.045] [Worker-Main-12/INFO] [ModernFix/]: Instantiating Mojang DFU
-[03Mar2025 00:53:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Pic-A-Nic Basket?]
-[03Mar2025 00:55:58.907] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[03Mar2025 00:55:58.907] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[03Mar2025 00:58:32.887] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 00:58:51.264] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 00:59:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
-[03Mar2025 00:59:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: priiimoooo<--[HERE]
-[03Mar2025 00:59:45.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Gabsterzx: primooooo
-[03Mar2025 00:59:53.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> primooooooo
-[03Mar2025 01:03:48.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [The Song of the Dragons]
-[03Mar2025 01:16:47.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:48443] logged in with entity id 9172 at (700.0245578352785, -53.0, 1191.54324626301)
-[03Mar2025 01:16:47.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 01:17:09.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> que onda pa
-[03Mar2025 01:17:15.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> qlq
-[03Mar2025 01:17:17.467] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 01:17:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 01:17:33.573] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:42073] logged in with entity id 9724 at (700.6999999880791, -53.0, 1191.6426493505203)
-[03Mar2025 01:17:33.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 01:17:39.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> asd
-[03Mar2025 01:17:46.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> qu eonda pa
-[03Mar2025 01:17:56.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> ola
-[03Mar2025 01:18:12.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> andas en sitio seguro?
-[03Mar2025 01:18:22.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> no xD
-[03Mar2025 01:18:40.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> ahora si
-[03Mar2025 01:18:53.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to Gabsterzx]
-[03Mar2025 01:19:18.915] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 01:19:18.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 01:19:31.823] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 01:19:34.275] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:34703] logged in with entity id 10886 at (1451.971223463018, 77.0, 2371.409778934944)
-[03Mar2025 01:19:34.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 01:20:04.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 01:20:04.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 01:20:04.393] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[03Mar2025 01:20:24.722] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 01:20:43.773] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:59887] logged in with entity id 11620 at (1451.971223463018, 77.0, 2371.409778934944)
-[03Mar2025 01:20:43.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 01:20:58.086] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 01:20:58.087] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 01:20:58.087] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 01:20:58.087] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 01:20:58.088] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 01:21:20.509] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 01:21:20.572] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 01:21:59.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> tengo una flauta que calma a los dragones
-[03Mar2025 01:22:09.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> ojooo
-[03Mar2025 01:22:23.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> podemos usar eso para amanzarlos?
-[03Mar2025 01:22:46.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> no se pero deja de atacarme cuando la uso
-[03Mar2025 01:23:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> especatacular
-[03Mar2025 01:27:01.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx was struck with lightning by Lightning Dragon
-[03Mar2025 01:27:08.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> que
-[03Mar2025 01:27:14.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> diaaaablo
-[03Mar2025 01:27:23.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> bueno
-[03Mar2025 01:27:30.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> no lo calma si le pego xD
-[03Mar2025 01:27:34.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> tepeate y te ayudo
-[03Mar2025 01:27:50.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> tira tp
-[03Mar2025 01:28:00.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> es que no se donde moriste xddd
-[03Mar2025 01:28:16.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to Gabsterzx]
-[03Mar2025 01:29:27.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [It's an Emu!!!]
-[03Mar2025 01:29:30.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Dragonslayer]
-[03Mar2025 01:29:42.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [It's an Emu!!!]
-[03Mar2025 01:30:06.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> por un momento me subi encima del dragon
-[03Mar2025 01:30:13.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> bueno me salia su barra de vida
-[03Mar2025 01:30:16.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> sisi
-[03Mar2025 01:30:21.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> e agarran
-[03Mar2025 01:30:37.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> crei que era por la flauta xd
-[03Mar2025 01:30:46.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> tamos hechos
-[03Mar2025 01:30:50.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [We do a little trolling...]
-[03Mar2025 01:34:12.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> voy seguir explorando a ver que encuentro
-[03Mar2025 01:34:22.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> yo igual
-[03Mar2025 01:36:50.645] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 01:36:50.675] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 01:36:50.737] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 01:36:50.756] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 01:40:23.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> tppp
-[03Mar2025 01:40:27.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> venw
-[03Mar2025 01:40:38.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> voy
-[03Mar2025 01:40:46.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to Gabsterzx]
-[03Mar2025 01:41:33.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> no tengo hp xd
-[03Mar2025 01:41:39.201] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vindicator['Uzsahe the Endborn'/21479, l='ServerLevel[world]', x=690.61, y=62.54, z=2933.40] died: Uzsahe the Endborn was slain by theJoJonny
-[03Mar2025 01:41:54.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> hay un monton de libros con encantamientos
-[03Mar2025 01:42:02.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> ojo
-[03Mar2025 01:42:08.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> golazo
-[03Mar2025 01:44:11.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> esto es demasiado bueno
-[03Mar2025 01:44:20.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> see
-[03Mar2025 01:44:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> voy a guardar una waypoint para cuando llegue hector
-[03Mar2025 01:46:26.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> entra a dc
-[03Mar2025 01:48:32.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Voluntary Exile]
-[03Mar2025 01:49:37.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> mano
-[03Mar2025 01:49:43.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> llegate
-[03Mar2025 01:49:50.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <theJoJonny> hay mas cosas
-[03Mar2025 01:51:34.219] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:54377] logged in with entity id 25597 at (210.62790973008464, 73.0, 229.5184506319759)
-[03Mar2025 01:51:34.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
-[03Mar2025 01:52:03.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to HestorJC]
-[03Mar2025 01:52:13.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
-[03Mar2025 01:52:46.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 01:52:46.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 01:53:02.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Voluntary Exile]
-[03Mar2025 01:53:04.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:59545] logged in with entity id 26491 at (203.1803478268433, 72.0, 233.27719421326535)
-[03Mar2025 01:53:04.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 01:53:40.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Voluntary Exile]
-[03Mar2025 01:54:49.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has completed the challenge [Hero of the Village]
-[03Mar2025 01:54:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has completed the challenge [Hero of the Village]
-[03Mar2025 01:54:49.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has completed the challenge [Hero of the Village]
-[03Mar2025 01:56:38.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 01:56:49.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 01:56:49.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 01:56:56.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 01:57:49.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:60907] logged in with entity id 28316 at (710.6611919300458, 65.0625, 2902.765249420197)
-[03Mar2025 01:57:49.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 01:57:58.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported theJoJonny to HestorJC]
-[03Mar2025 02:02:43.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 02:05:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Chompy]
-[03Mar2025 02:08:16.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Dragonslayer]
-[03Mar2025 02:10:58.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[03Mar2025 02:17:06.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 02:17:06.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 02:17:10.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 300.500000, 80.000000, 250.500000]
-[03Mar2025 02:17:36.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityHippocampus['Hippocampus'/36147, l='ServerLevel[world]', x=262.03, y=58.91, z=15.98]
-[03Mar2025 02:17:50.526] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:50087] logged in with entity id 36330 at (200.5, 73.0, 237.5)
-[03Mar2025 02:17:50.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 02:20:58.634] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=240, y=63, z=235} BlockPos{x=240, y=62, z=235}
-[03Mar2025 02:21:17.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
-[03Mar2025 02:24:50.800] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 02:24:53.191] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 02:29:44.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to Gabsterzx]
-[03Mar2025 02:30:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 02:30:06.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 02:30:06.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 02:30:22.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> afsa
-[03Mar2025 02:30:22.914] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
-[03Mar2025 02:30:22.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
-[03Mar2025 02:30:47.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:55861] logged in with entity id 43164 at (506.49303972192206, 82.0, 2999.1896742164718)
-[03Mar2025 02:30:47.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 02:31:02.474] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:47337] logged in with entity id 43607 at (506.49303972192206, 82.0, 2999.1896742164718)
-[03Mar2025 02:31:02.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
-[03Mar2025 02:31:02.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to theJoJonny]
-[03Mar2025 02:31:11.845] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Pillager['Pelgrim the Sharpshooter'/43183, l='ServerLevel[world]', x=509.10, y=83.50, z=2997.70] died: Pelgrim the Sharpshooter was slain by Gabsterzx
-[03Mar2025 02:31:17.409] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 02:31:17.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 02:31:20.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> aaaa
-[03Mar2025 02:31:32.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
-[03Mar2025 02:31:32.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
-[03Mar2025 02:31:58.368] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:44003] logged in with entity id 43751 at (506.49303972192206, 82.0, 2999.1896742164718)
-[03Mar2025 02:31:58.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
-[03Mar2025 02:32:12.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:57871] logged in with entity id 43801 at (506.49303972192206, 82.0, 2999.1896742164718)
-[03Mar2025 02:32:12.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 02:32:42.360] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 02:32:42.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 02:34:04.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:44117] logged in with entity id 44139 at (506.49303972192206, 82.0, 2999.1896742164718)
-[03Mar2025 02:34:04.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 02:34:34.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 02:34:34.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 02:35:16.370] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:37641] logged in with entity id 44413 at (506.49303972192206, 82.0, 2999.1896742164718)
-[03Mar2025 02:35:16.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 02:37:12.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 300.500000, 80.000000, 250.500000]
-[03Mar2025 02:41:37.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 300.500000, 80.000000, 250.500000]
-[03Mar2025 02:44:47.793] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 02:44:53.619] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 02:45:01.473] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[03Mar2025 02:48:26.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[03Mar2025 02:48:47.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 02:48:47.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 02:49:10.775] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:39019] logged in with entity id 54206 at (178.3387290009896, 63.0, 179.87580073307743)
-[03Mar2025 02:49:10.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 02:49:54.048] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[03Mar2025 02:52:07.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Begun, The Emu War Has]
-[03Mar2025 02:52:54.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asdsds
-[03Mar2025 02:53:00.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Timed out
-[03Mar2025 02:53:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
-[03Mar2025 02:53:02.358] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 02:53:15.081] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:48425] logged in with entity id 56744 at (178.58867029888526, 64.24918707874468, 179.90268711909044)
-[03Mar2025 02:53:15.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
-[03Mar2025 02:53:23.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> aydios
-[03Mar2025 02:54:59.013] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/44919, l='ServerLevel[world]', x=216.15, y=64.56, z=187.14] died, message: 'Toolsmith was slain by Zombie'
-[03Mar2025 02:55:01.048] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 02:55:58.744] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 02:56:29.263] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 02:56:29.267] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 02:57:11.569] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
-[03Mar2025 02:57:11.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
-[03Mar2025 02:57:19.666] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:43893] logged in with entity id 59973 at (-23.118508165987027, 63.0, 4130.702090205668)
-[03Mar2025 02:57:19.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
-[03Mar2025 03:07:17.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 03:07:42.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 03:07:42.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 03:08:23.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:58409] logged in with entity id 67247 at (228.17624563325793, 67.0, 233.71421894800784)
-[03Mar2025 03:08:23.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 03:08:57.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[03Mar2025 03:10:45.365] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[03Mar2025 03:10:57.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to 300.500000, 80.000000, 250.500000]
-[03Mar2025 03:12:20.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [What a Deal!]
-[03Mar2025 03:12:36.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
-[03Mar2025 03:12:50.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [What a Deal!]
-[03Mar2025 03:18:15.973] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guardian['Esdras the Eager'/71837, l='ServerLevel[world]', x=80.51, y=59.09, z=4894.37] died: Esdras the Eager was slain by Gabsterzx
-[03Mar2025 03:18:59.975] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 03:19:00.027] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 03:19:00.029] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 03:19:00.035] [Worker-Main-11/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 03:19:56.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=124, y=88, z=269} BlockPos{x=123, y=86, z=268}
-[03Mar2025 03:19:58.087] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 03:20:24.795] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 03:20:24.796] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 03:20:24.796] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 03:20:24.796] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 03:20:24.796] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 03:25:20.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [My Name is Nobody]
-[03Mar2025 03:26:40.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 03:26:40.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 03:27:03.268] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
-[03Mar2025 03:27:03.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
-[03Mar2025 03:27:05.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:44295] logged in with entity id 77867 at (116.23823409847238, 87.0, 265.0669487675013)
-[03Mar2025 03:27:05.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 03:27:08.718] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:46245] logged in with entity id 77907 at (166.40401908010287, 71.0, 5606.198040862483)
-[03Mar2025 03:27:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
-[03Mar2025 03:29:29.253] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 03:29:39.113] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 03:30:12.932] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[03Mar2025 03:32:27.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Ice Bucket Challenge]
-[03Mar2025 03:36:17.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [Total Beelocation]
-[03Mar2025 03:36:19.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
-[03Mar2025 03:41:23.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 03:41:52.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Dragonslayer]
-[03Mar2025 03:43:30.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 03:44:51.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Chompy]
-[03Mar2025 03:45:27.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx fell from a high place
-[03Mar2025 03:45:52.242] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=226, y=-7, z=321}
-[03Mar2025 03:45:52.244] [Worker-Main-35/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=225, y=-7, z=328}
-[03Mar2025 03:47:08.049] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 03:47:21.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny has made the advancement [What a Deal!]
-[03Mar2025 03:48:24.246] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[03Mar2025 03:48:59.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 03:49:16.065] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 03:49:29.773] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 03:49:42.514] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 03:50:07.325] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/92184, l='ServerLevel[world]', x=-758.81, y=63.00, z=6684.93] died, message: 'Villager was shot by Stymphalian Bird'
-[03Mar2025 03:50:52.575] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/91402, l='ServerLevel[world]', x=-739.51, y=79.00, z=6615.49] died, message: 'Villager was shot by Stymphalian Bird'
-[03Mar2025 03:51:25.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Herc was on a Roll!]
-[03Mar2025 03:53:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 03:54:47.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[03Mar2025 03:55:09.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
-[03Mar2025 03:55:09.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 03:55:30.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:46433] logged in with entity id 95385 at (-816.7488683593353, 86.0, 6594.699999988079)
-[03Mar2025 03:55:30.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 03:57:39.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 03:58:24.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/91499, l='ServerLevel[world]', x=-744.51, y=80.00, z=6617.57] died, message: 'Librarian was shot by Stymphalian Bird'
-[03Mar2025 03:59:03.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 03:59:39.115] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/92185, l='ServerLevel[world]', x=-755.07, y=71.00, z=6638.31] died, message: 'Leatherworker was shot by Stymphalian Bird'
-[03Mar2025 04:01:47.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 04:03:40.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 04:06:03.097] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 04:07:47.742] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
-[03Mar2025 04:08:21.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx moved too quickly! -7.231105646137166,1.229169537072842,9.427242425508666
-[03Mar2025 04:08:24.416] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 04:11:15.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 04:11:48.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to theJoJonny]
-[03Mar2025 04:12:09.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
-[03Mar2025 04:14:41.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 04:16:01.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 04:16:20.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 04:16:55.761] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 04:16:55.767] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 04:16:55.768] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 04:16:55.769] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 04:16:55.769] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 04:19:15.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 04:20:06.105] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 04:21:17.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2273, y=68, z=6687} BlockPos{x=-2274, y=67, z=6687}
-[03Mar2025 04:22:08.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[03Mar2025 04:23:13.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [We Need to Go Deeper]
-[03Mar2025 04:23:14.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC moved too quickly! 9.414621727615213,0.49520087700592086,3.8637387024928103
-[03Mar2025 04:23:14.492] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny moved too quickly! -8.278707906857562,0.8800391385729398,6.048119153781045
-[03Mar2025 04:23:14.519] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3067ms or 61 ticks behind
-[03Mar2025 04:23:20.115] [Worker-Main-35/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/112515, l='ServerLevel[world]', x=-259.00, y=31.00, z=956.00] as it would cause deadlock
-[03Mar2025 04:23:43.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 04:27:29.991] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 04:27:30.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to theJoJonny]
-[03Mar2025 04:27:31.197] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 04:27:39.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> asdasd
-[03Mar2025 04:28:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 04:29:30.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/118244, l='ServerLevel[world]', x=213.50, y=49.00, z=126.50]
-[03Mar2025 04:31:15.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx was turned to stone by Gorgon
-[03Mar2025 04:32:22.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx was turned into gorgonzola by Gorgon
-[03Mar2025 04:32:57.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Sea? Not a Problem]
-[03Mar2025 04:39:36.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
-[03Mar2025 04:41:00.223] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Disconnected
-[03Mar2025 04:41:00.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 04:41:24.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 04:42:39.665] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: theJoJonny[/127.107.54.166:59109] logged in with entity id 128887 at (178.6168927443853, 63.0, 177.18971160754356)
-[03Mar2025 04:42:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny joined the game
-[03Mar2025 04:43:06.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported HestorJC to theJoJonny]
-[03Mar2025 04:43:49.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: The difficulty has been set to Hard]
-[03Mar2025 04:45:39.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Surge Protector]
-[03Mar2025 04:50:26.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: The difficulty has been set to Easy]
-[03Mar2025 04:50:28.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to Gabsterzx]
-[03Mar2025 04:50:43.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Clash of the Titans]
-[03Mar2025 04:52:46.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [theJoJonny: Teleported theJoJonny to HestorJC]
-[03Mar2025 04:53:30.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Gabsterzx: Teleported Gabsterzx to HestorJC]
-[03Mar2025 04:54:51.015] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Disconnected
-[03Mar2025 04:54:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
-[03Mar2025 04:58:19.692] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 05:00:13.948] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 05:00:13.995] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 05:00:14.022] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 05:00:14.039] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 05:00:14.040] [Worker-Main-12/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: revampedvillages:outpost/points
-[03Mar2025 05:00:39.038] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 05:00:40.860] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:houses/small_igloo_2/side_pool which is being called from mvs:houses/medium_igloo_2
-[03Mar2025 05:00:42.443] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 05:00:50.864] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 05:00:53.912] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 05:00:53.969] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:00:53.969] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:00:53.969] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:00:53.969] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:00:53.969] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:04:33.800] [Worker-Main-35/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 05:08:37.532] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[03Mar2025 05:08:37.532] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[03Mar2025 05:10:58.326] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.6214249073946121
-[03Mar2025 05:10:58.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.6599749266588333
-[03Mar2025 05:11:00.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.3768154087201765
-[03Mar2025 05:11:00.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.7544992868488407
-[03Mar2025 05:11:00.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.7910880684548829
-[03Mar2025 05:11:00.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.7487202502370565
-[03Mar2025 05:11:19.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.30556953438463097
-[03Mar2025 05:11:19.188] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.6908643037613729
-[03Mar2025 05:11:19.197] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 1.031936580965521
-[03Mar2025 05:11:19.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.33886110727235064
-[03Mar2025 05:11:19.336] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Gabsterzx) moved wrongly! 0.675450004447157
-[03Mar2025 05:11:22.545] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:11:22.545] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:11:22.546] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:11:22.546] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:11:22.546] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
-[03Mar2025 05:12:33.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/149620, l='ServerLevel[world]', x=-5382.28, y=60.04, z=4971.63] died, message: 'Villager drowned'
-[03Mar2025 05:12:33.817] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/149621, l='ServerLevel[world]', x=-5380.63, y=60.04, z=4971.72] died, message: 'Villager drowned'
-[03Mar2025 05:12:43.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 05:14:41.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 05:19:06.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 05:19:33.522] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Ewart the Cold'/150323, l='ServerLevel[world]', x=-5462.00, y=78.00, z=4878.30] died: Ewart the Cold was slain by Gabsterzx
-[03Mar2025 05:20:59.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [We do a little trolling...]
-[03Mar2025 05:24:28.328] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 05:24:47.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 05:26:37.741] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
-[03Mar2025 05:27:25.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [We Just Want our Hat Back]
-[03Mar2025 05:27:31.646] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[03Mar2025 05:27:31.646] [Worker-Main-12/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
-[03Mar2025 05:27:36.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <HestorJC> te salite del dc
-[03Mar2025 05:28:09.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Sea? Not a Problem]
-[03Mar2025 05:31:09.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 05:46:32.214] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
-[03Mar2025 05:46:32.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
-[03Mar2025 05:46:50.715] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:55843] logged in with entity id 165285 at (12531.762499988079, 72.0, 8145.857400559027)
-[03Mar2025 05:46:50.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
-[03Mar2025 05:50:58.665] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
-[03Mar2025 05:50:58.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
-[03Mar2025 05:51:02.767] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:42077] logged in with entity id 166772 at (12532.087695141143, 72.875, 8142.6579741573)
-[03Mar2025 05:51:02.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
-[03Mar2025 05:56:42.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Splintering II]
-[03Mar2025 05:56:49.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 05:56:53.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Splintering II]
-[03Mar2025 06:13:42.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 06:14:21.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 06:19:49.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Another Brick in the Wall]
-[03Mar2025 06:21:34.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [The Song of the Dragons]
-[03Mar2025 06:24:47.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to HestorJC]
-[03Mar2025 06:36:51.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Taste the Rainbow]
-[03Mar2025 06:44:54.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to Gabsterzx]
-[03Mar2025 06:44:57.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported Gabsterzx to HestorJC]
-[03Mar2025 06:45:57.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [A Flaming Sword]
-[03Mar2025 06:46:29.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Crafting a New Look]
-[03Mar2025 06:49:26.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Teleported HestorJC to Gabsterzx]
-[03Mar2025 06:49:28.191] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
-[03Mar2025 06:51:55.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1775, y=68, z=1158} BlockPos{x=1776, y=67, z=1159}
-[03Mar2025 06:51:55.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1774, y=68, z=1158} BlockPos{x=1775, y=67, z=1158}
-[03Mar2025 06:51:55.762] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1774, y=68, z=1159} BlockPos{x=1774, y=67, z=1158}
-[03Mar2025 06:51:55.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1774, y=68, z=1157} BlockPos{x=1774, y=67, z=1159}
-[03Mar2025 06:51:58.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=68, z=1158} BlockPos{x=1770, y=67, z=1160}
-[03Mar2025 06:51:58.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=68, z=1158} BlockPos{x=1770, y=67, z=1160}
-[03Mar2025 06:51:59.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1769, y=68, z=1159} BlockPos{x=1770, y=67, z=1158}
-[03Mar2025 06:51:59.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1769, y=68, z=1159} BlockPos{x=1769, y=67, z=1161}
-[03Mar2025 06:51:59.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1768, y=68, z=1159} BlockPos{x=1769, y=67, z=1161}
-[03Mar2025 06:52:00.263] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1768, y=68, z=1159} BlockPos{x=1769, y=67, z=1160}
-[03Mar2025 06:52:00.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1768, y=69, z=1158} BlockPos{x=1769, y=67, z=1160}
-[03Mar2025 06:52:04.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1774, y=68, z=1163} BlockPos{x=1773, y=67, z=1164}
-[03Mar2025 06:52:04.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1773, y=67, z=1164}
-[03Mar2025 06:52:04.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1773, y=67, z=1164}
-[03Mar2025 06:52:04.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1773, y=67, z=1164}
-[03Mar2025 06:52:04.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1774, y=68, z=1162} BlockPos{x=1773, y=67, z=1164}
-[03Mar2025 06:52:05.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1774, y=67, z=1162}
-[03Mar2025 06:52:05.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1774, y=67, z=1162}
-[03Mar2025 06:52:05.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1774, y=67, z=1162}
-[03Mar2025 06:52:05.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1774, y=67, z=1164}
-[03Mar2025 06:52:06.543] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1773, y=67, z=1163}
-[03Mar2025 06:52:06.593] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1773, y=68, z=1163} BlockPos{x=1773, y=67, z=1163}
-[03Mar2025 06:52:14.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1771, y=68, z=1172} BlockPos{x=1769, y=67, z=1171}
-[03Mar2025 06:52:14.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=68, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.576] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=69, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.628] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=69, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=69, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=69, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=69, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.832] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=69, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.874] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1770, y=68, z=1172} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:14.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1771, y=68, z=1173} BlockPos{x=1771, y=67, z=1172}
-[03Mar2025 06:52:15.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1769, y=68, z=1173} BlockPos{x=1770, y=67, z=1173}
-[03Mar2025 06:52:16.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1769, y=68, z=1174} BlockPos{x=1770, y=67, z=1173}
-[03Mar2025 06:52:16.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1768, y=68, z=1174} BlockPos{x=1770, y=67, z=1173}
-[03Mar2025 06:52:16.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1768, y=68, z=1174} BlockPos{x=1770, y=67, z=1173}
-[03Mar2025 06:52:16.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1767, y=68, z=1172} BlockPos{x=1768, y=67, z=1173}
-[03Mar2025 06:52:16.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1767, y=68, z=1172} BlockPos{x=1768, y=67, z=1173}
-[03Mar2025 06:52:17.397] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1768, y=68, z=1171} BlockPos{x=1769, y=67, z=1171}
-[03Mar2025 06:52:18.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1768, y=68, z=1169} BlockPos{x=1768, y=67, z=1170}
-[03Mar2025 06:53:29.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1169} BlockPos{x=1783, y=67, z=1170}
-[03Mar2025 06:53:30.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1169} BlockPos{x=1782, y=67, z=1169}
-[03Mar2025 06:53:30.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1169} BlockPos{x=1782, y=67, z=1169}
-[03Mar2025 06:53:30.594] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1784, y=68, z=1171} BlockPos{x=1783, y=67, z=1171}
-[03Mar2025 06:53:31.095] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1785, y=68, z=1171} BlockPos{x=1785, y=67, z=1172}
-[03Mar2025 06:53:31.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1169} BlockPos{x=1783, y=67, z=1169}
-[03Mar2025 06:53:32.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1169} BlockPos{x=1782, y=67, z=1169}
-[03Mar2025 06:53:35.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1785, y=68, z=1167} BlockPos{x=1785, y=67, z=1167}
-[03Mar2025 06:53:35.192] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1786, y=68, z=1166} BlockPos{x=1785, y=67, z=1167}
-[03Mar2025 06:53:35.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1786, y=68, z=1167} BlockPos{x=1787, y=68, z=1167}
-[03Mar2025 06:53:35.492] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1786, y=68, z=1166} BlockPos{x=1787, y=68, z=1167}
-[03Mar2025 06:53:35.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=68, z=1165} BlockPos{x=1787, y=68, z=1166}
-[03Mar2025 06:53:35.777] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=68, z=1165} BlockPos{x=1787, y=68, z=1166}
-[03Mar2025 06:53:35.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=68, z=1165} BlockPos{x=1787, y=68, z=1166}
-[03Mar2025 06:53:36.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1785, y=68, z=1167} BlockPos{x=1786, y=67, z=1166}
-[03Mar2025 06:53:36.098] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1785, y=68, z=1167} BlockPos{x=1786, y=67, z=1166}
-[03Mar2025 06:53:36.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1785, y=68, z=1165} BlockPos{x=1786, y=67, z=1166}
-[03Mar2025 06:53:37.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=68, z=1165} BlockPos{x=1786, y=67, z=1166}
-[03Mar2025 06:53:39.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=69, z=1168} BlockPos{x=1787, y=68, z=1168}
-[03Mar2025 06:53:39.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1788, y=69, z=1169} BlockPos{x=1787, y=68, z=1168}
-[03Mar2025 06:53:40.945] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=69, z=1168} BlockPos{x=1788, y=68, z=1169}
-[03Mar2025 06:53:41.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=69, z=1168} BlockPos{x=1787, y=68, z=1168}
-[03Mar2025 06:53:59.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1163} BlockPos{x=1783, y=67, z=1162}
-[03Mar2025 06:53:59.528] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1162} BlockPos{x=1783, y=67, z=1162}
-[03Mar2025 06:53:59.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1161} BlockPos{x=1782, y=67, z=1162}
-[03Mar2025 06:54:00.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1783, y=68, z=1159} BlockPos{x=1783, y=67, z=1161}
-[03Mar2025 06:54:00.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1783, y=68, z=1158} BlockPos{x=1783, y=67, z=1161}
-[03Mar2025 06:54:00.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1783, y=69, z=1158} BlockPos{x=1782, y=68, z=1157}
-[03Mar2025 06:54:00.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1783, y=69, z=1158} BlockPos{x=1782, y=68, z=1157}
-[03Mar2025 06:54:01.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1782, y=68, z=1158} BlockPos{x=1784, y=68, z=1158}
-[03Mar2025 06:54:02.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1784, y=68, z=1159} BlockPos{x=1784, y=68, z=1158}
-[03Mar2025 06:54:03.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1786, y=68, z=1161} BlockPos{x=1784, y=67, z=1159}
-[03Mar2025 06:54:03.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1786, y=68, z=1161} BlockPos{x=1786, y=68, z=1160}
-[03Mar2025 06:54:04.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1787, y=69, z=1161} BlockPos{x=1787, y=68, z=1161}
-[03Mar2025 06:54:14.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1777, y=68, z=1176} BlockPos{x=1778, y=67, z=1176}
-[03Mar2025 06:54:15.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1778, y=68, z=1177} BlockPos{x=1778, y=67, z=1176}
-[03Mar2025 06:54:15.997] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1777, y=68, z=1176} BlockPos{x=1778, y=67, z=1176}
-[03Mar2025 07:03:25.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Sneak 100]
-[03Mar2025 07:09:46.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
-[03Mar2025 07:09:46.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
-[03Mar2025 07:15:12.609] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: HestorJC lost connection: Disconnected
-[03Mar2025 07:15:12.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC left the game
-[03Mar2025 07:24:10.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
-[03Mar2025 07:24:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[03Mar2025 07:24:10.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[03Mar2025 07:24:10.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[03Mar2025 07:24:10.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03Mar2025 07:24:10.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[03Mar2025 07:24:10.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[03Mar2025 07:24:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03Mar2025 07:24:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03Mar2025 07:24:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03Mar2025 07:24:10.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[03Mar2025 07:24:11.674] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Mar2025 09:04:33.874] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.0, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[03Mar2025 09:04:33.877] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.5.0-1025-azure
+[03Mar2025 09:04:34.480] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[03Mar2025 09:04:34.537] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[03Mar2025 09:04:34.756] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.0/fmlcore-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 09:04:34.758] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.0/javafmllanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 09:04:34.760] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.0/lowcodelanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 09:04:34.761] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.0/mclanguage-1.20.1-47.3.0.jar is missing mods.toml file
+[03Mar2025 09:04:34.913] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 2 dependencies adding them to mods collection
+[03Mar2025 09:04:36.668] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[03Mar2025 09:04:36.733] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[03Mar2025 09:04:36.868] [main/WARN] [mixin/]: Reference map 'mvs-forge-refmap.json' for mvs-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 09:04:36.878] [main/WARN] [mixin/]: Reference map 'mns-forge-refmap.json' for mns-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 09:04:36.888] [main/WARN] [mixin/]: Reference map 'mes-forge-refmap.json' for mes-forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[03Mar2025 09:04:36.994] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.20.2+mc1.20.1: 87 options available, 0 override(s) found
+[03Mar2025 09:04:36.995] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[03Mar2025 09:04:37.009] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[03Mar2025 09:04:38.028] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[03Mar2025 09:04:38.496] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (6.936 s after launch)
+[03Mar2025 09:04:38.628] [main/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Mar2025 09:04:38.629] [main/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[03Mar2025 09:04:40.062] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1562 milliseconds
+[03Mar2025 09:04:44.048] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[03Mar2025 09:04:44.086] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.0, for MC 1.20.1 with MCP 20230612.114412
+[03Mar2025 09:04:44.086] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.0 Initialized
+[03Mar2025 09:04:46.734] [modloading-worker-0/INFO] [com.github.nyuppo.MoreMobVariants/]: Giving mobs a fresh coat of paint...
+[03Mar2025 09:04:46.741] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[03Mar2025 09:04:46.963] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Starting version check at https://api.modrinth.com/updates/8Lw09aLb/forge_updates.json
+[03Mar2025 09:04:47.122] [main/INFO] [journeymap/]: Initializing Packet Registries
+[03Mar2025 09:04:47.433] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_lukis_grandcapitals] Found status: OUTDATED Current: 1.1.1 Target: 1.1.1+mod
+[03Mar2025 09:04:47.434] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[03Mar2025 09:04:47.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 47.3.0 Target: null
+[03Mar2025 09:04:47.576] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Starting version check at https://forge.curseupdate.com/32274/journeymap
+[03Mar2025 09:04:47.674] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [journeymap] Found status: UP_TO_DATE Current: 5.10.3 Target: null
+[03Mar2025 09:04:48.041] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: Mods loaded with 2 warnings
+[03Mar2025 09:04:48.045] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.no_ferritecore
+[03Mar2025 09:04:48.045] [main/WARN] [net.minecraftforge.server.loading.ServerModLoader/LOADING]: modernfix.perf_mod_warning
+[03Mar2025 09:04:48.073] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[03Mar2025 09:04:48.170] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[03Mar2025 09:04:48.397] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/assets/.mcassetsroot' uses unexpected schema
+[03Mar2025 09:04:48.397] [main/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/workspaces/SERVER-OOOO/servidor_minecraft/libraries/net/minecraft/server/1.20.1-20230612.114412/server-1.20.1-20230612.114412-srg.jar%23141!/data/.mcassetsroot' uses unexpected schema
+[03Mar2025 09:04:50.071] [main/INFO] [com.github.alexthe666.alexsmobs.AlexsMobs/]: Adding datapack listener capsid_recipes
+[03Mar2025 09:04:50.163] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag unusualend:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[03Mar2025 09:04:50.164] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag minecraft:void_tracker_located as it is missing following references: unusualend:gloopy_citadel (from unusualend-2.2.3-forge-1.20.1.jar)
+[03Mar2025 09:04:50.753] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 10 recipes
+[03Mar2025 09:04:50.876] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1857 advancements
+[03Mar2025 09:04:50.879] [main/INFO] [com.github.nyuppo.MoreMobVariants/]: Reloading config...
+[03Mar2025 09:04:50.931] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[03Mar2025 09:04:50.931] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[03Mar2025 09:04:50.932] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[03Mar2025 09:04:50.932] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[03Mar2025 09:04:50.932] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[03Mar2025 09:04:50.933] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[03Mar2025 09:04:50.933] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[03Mar2025 09:04:50.933] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[03Mar2025 09:04:50.933] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[03Mar2025 09:04:50.934] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[03Mar2025 09:04:50.934] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[03Mar2025 09:04:50.934] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[03Mar2025 09:04:50.935] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[03Mar2025 09:04:50.935] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[03Mar2025 09:04:50.935] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[03Mar2025 09:04:50.935] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[03Mar2025 09:04:50.935] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[03Mar2025 09:04:50.936] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[03Mar2025 09:04:50.936] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[03Mar2025 09:04:50.936] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[03Mar2025 09:04:50.936] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[03Mar2025 09:04:50.936] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[03Mar2025 09:04:50.937] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[03Mar2025 09:04:50.937] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[03Mar2025 09:04:50.937] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[03Mar2025 09:04:50.937] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[03Mar2025 09:04:50.938] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[03Mar2025 09:04:50.938] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[03Mar2025 09:04:50.938] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[03Mar2025 09:04:50.939] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[03Mar2025 09:04:51.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.20.1
+[03Mar2025 09:04:51.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[03Mar2025 09:04:51.044] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[03Mar2025 09:04:51.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[03Mar2025 09:04:51.136] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[03Mar2025 09:04:51.162] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[03Mar2025 09:04:51.241] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03Mar2025 09:04:51.242] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[03Mar2025 09:04:51.242] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03Mar2025 09:04:51.242] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[03Mar2025 09:04:51.267] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[03Mar2025 09:04:51.422] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[03Mar2025 09:04:51.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[03Mar2025 09:04:52.024] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[03Mar2025 09:04:53.143] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 09:04:53.144] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 09:04:53.144] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 09:04:53.252] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[03Mar2025 09:04:53.789] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2038 ms
+[03Mar2025 09:04:53.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.531s)! For help, type "help"
+[03Mar2025 09:04:53.814] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[03Mar2025 09:04:53.837] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[03Mar2025 09:04:53.838] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[03Mar2025 09:04:53.838] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[03Mar2025 09:04:53.839] [Server thread/WARN] [ModernFix/]: Dedicated server took 22.279 seconds to load
+[03Mar2025 09:07:45.399] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@19447d50[id=<null>,name=HestorJC,properties={},legacy=false] (/127.160.228.191:57105) lost connection: Disconnected
+[03Mar2025 09:07:49.051] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: HestorJC[/127.160.228.191:57517] logged in with entity id 184 at (173.6015544046433, 63.0, 181.1781717683868)
+[03Mar2025 09:07:49.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC joined the game
+[03Mar2025 09:08:41.344] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/414, l='ServerLevel[world]', x=214.50, y=49.00, z=123.50]
