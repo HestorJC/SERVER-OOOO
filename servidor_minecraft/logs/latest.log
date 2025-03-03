@@ -421,3 +421,8 @@
 [03Mar2025 18:02:45.543] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: theJoJonny lost connection: Timed out
 [03Mar2025 18:02:45.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: theJoJonny left the game
 [03Mar2025 18:03:13.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a6485af[id=<null>,name=theJoJonny,properties={},legacy=false] (/127.107.54.166:40897) lost connection: Disconnected
+[03Mar2025 18:08:27.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[03Mar2025 18:08:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
+[03Mar2025 18:10:50.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Creative Mode]
+[03Mar2025 18:11:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Survival Mode]
+[03Mar2025 18:13:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Local Brewery]

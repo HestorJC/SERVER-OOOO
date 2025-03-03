@@ -4304,3 +4304,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 18:03:12.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
 [03Mar2025 18:03:12.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
 [03Mar2025 18:03:13.657] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1a6485af[id=<null>,name=theJoJonny,properties={},legacy=false] (/127.107.54.166:40897) lost connection: Disconnected
+[03Mar2025 18:07:39.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:07:39.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:08:27.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Gabsterzx lost connection: Disconnected
+[03Mar2025 18:08:27.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx left the game
+[03Mar2025 18:10:50.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Creative Mode]
+[03Mar2025 18:11:13.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [HestorJC: Set own game mode to Survival Mode]
+[03Mar2025 18:12:39.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 18:12:39.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 18:13:31.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: HestorJC has made the advancement [Local Brewery]
