@@ -36,6 +36,7 @@
       "minecraft:flower_forest": "2025-03-02 00:47:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-01 05:40:24 +0000",
       "minecraft:meadow": "2025-03-01 04:37:49 +0000",
+      "minecraft:savanna": "2025-03-03 01:28:52 +0000",
       "minecraft:plains": "2025-03-01 03:18:23 +0000"
     },
     "done": false
@@ -467,6 +468,7 @@
     "criteria": {
       "minecraft:pillager": "2025-03-01 07:39:53 +0000",
       "minecraft:skeleton": "2025-03-01 04:08:27 +0000",
+      "minecraft:vindicator": "2025-03-03 01:41:39 +0000",
       "minecraft:spider": "2025-03-01 04:02:02 +0000",
       "minecraft:creeper": "2025-03-02 00:58:58 +0000",
       "minecraft:slime": "2025-03-02 01:59:52 +0000",
@@ -2827,6 +2829,84 @@
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-03-02 01:57:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-03-03 01:29:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-03-03 01:29:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-03-03 01:29:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-03-03 01:29:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-03-03 01:30:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-03-03 01:30:06 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_boots": {
+    "criteria": {
+      "has_item": "2025-03-03 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_leggings": {
+    "criteria": {
+      "has_item": "2025-03-03 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_helmet": {
+    "criteria": {
+      "has_item": "2025-03-03 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_amythest_to_dragonscale_amythest": {
+    "criteria": {
+      "has_dragonscales_amythest": "2025-03-03 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_amythest_chestplate": {
+    "criteria": {
+      "has_item": "2025-03-03 01:30:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-03-03 01:48:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-03-03 01:54:49 +0000"
     },
     "done": true
   },
