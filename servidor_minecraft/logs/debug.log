@@ -1883,3 +1883,68 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [03Mar2025 00:47:03.973] [Worker-Main-11/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
 [03Mar2025 00:47:04.541] [Worker-Main-12/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.unusualend.json into net.minecraft.world.level.levelgen.NoiseChunk
 [03Mar2025 00:48:11.482] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/lamp_chest
+[03Mar2025 00:48:43.773] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 00:48:43.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 00:49:18.173] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:carts/cart
+[03Mar2025 00:49:42.804] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:phantomboss at BlockPos{x=1019, y=-3, z=1538} at Chest with:minecraft:chests/ruined_portal
+[03Mar2025 00:49:55.453] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=623, y=-34, z=1771} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:50:30.945] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[03Mar2025 00:50:30.952] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[03Mar2025 00:50:58.073] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/acacia_well
+[03Mar2025 00:50:58.078] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_upper
+[03Mar2025 00:50:58.083] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/well_lower
+[03Mar2025 00:50:58.104] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:nature/floating_islands
+[03Mar2025 00:51:12.382] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=854, y=31, z=1914} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:51:29.900] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=763, y=61, z=1962} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:51:49.424] [Worker-Main-18/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/oak_log_pile
+[03Mar2025 00:52:01.817] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:houses/small_swamp_house
+[03Mar2025 00:52:05.706] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/dark_oak_log_pile
+[03Mar2025 00:52:27.045] [Worker-Main-12/DEBUG] [ModernFix/]: Structure mvs:well/rare_well/rare_well_upper is being run through DFU (hash 7b07ced978f09b63aac4f90440e633036e5ae02c894bb170c055c17c42a72a9f), this will cause launch time delays
+[03Mar2025 00:52:27.045] [Worker-Main-12/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Mar2025 00:52:27.726] [Worker-Main-12/DEBUG] [ModernFix/]: Structure mvs:well/rare_well/rare_well_lower is being run through DFU (hash fdd7078751c43ac45a5d460a94c897d401533893ffbf487d1751728b20fb908e), this will cause launch time delays
+[03Mar2025 00:52:27.889] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/acacia_log_pile
+[03Mar2025 00:52:35.773] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:irongolemboss at BlockPos{x=637, y=15, z=2099} at Chest with:minecraft:chests/stronghold_corridor
+[03Mar2025 00:52:39.135] [Worker-Main-13/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/jungle_log_pile
+[03Mar2025 00:52:39.603] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=557, y=-50, z=2124} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:52:39.792] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/mushroom_well
+[03Mar2025 00:52:42.090] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=840, y=2, z=2136} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:52:46.926] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:other_decoration/desert_pump
+[03Mar2025 00:52:49.973] [Worker-Main-11/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:log_pile/birch_log_pile
+[03Mar2025 00:53:43.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 00:53:43.895] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 00:53:44.239] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=973, y=42, z=1949} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:53:54.881] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=720, y=34, z=2310} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:53:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Pic-A-Nic Basket?]
+[03Mar2025 00:54:15.898] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=982, y=-50, z=2317} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:55:22.636] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=929, y=33, z=2356} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:55:58.907] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 00:55:58.907] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 00:55:59.788] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/spruce_well
+[03Mar2025 00:55:59.792] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/dark_oak_well
+[03Mar2025 00:55:59.796] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/snowy_well
+[03Mar2025 00:55:59.799] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/desert_well
+[03Mar2025 00:55:59.804] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_well
+[03Mar2025 00:55:59.813] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/birch_well
+[03Mar2025 00:55:59.818] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/jungle_well
+[03Mar2025 00:55:59.826] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/small_copper_well
+[03Mar2025 00:55:59.832] [Worker-Main-12/DEBUG] [ModernFix/]: Using cached upgraded version of mvs:well/wells/oak_well
+[03Mar2025 00:58:13.579] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=1175, y=-40, z=1999} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:58:21.869] [Worker-Main-12/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1223, y=-42, z=2332} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:58:32.887] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 00:58:39.840] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1276, y=-44, z=2094} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 00:58:43.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 00:58:43.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 00:58:51.264] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 00:59:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Mar2025 00:59:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: priiimoooo<--[HERE]
+[03Mar2025 00:59:45.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Gabsterzx: primooooo
+[03Mar2025 00:59:53.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> primooooooo
+[03Mar2025 01:00:39.251] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1520, y=-51, z=1989} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 01:00:43.826] [Worker-Main-18/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1547, y=32, z=1932} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 01:01:19.624] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1629, y=58, z=2113} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 01:01:23.092] [Worker-Main-13/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=1592, y=-40, z=2348} at Chest with:minecraft:chests/simple_dungeon
+[03Mar2025 01:03:43.734] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 01:03:43.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[03Mar2025 01:03:48.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [The Song of the Dragons]
+[03Mar2025 01:08:43.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[03Mar2025 01:08:43.735] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

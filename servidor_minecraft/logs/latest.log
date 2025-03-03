@@ -104,3 +104,14 @@
 [03Mar2025 00:44:06.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Gabsterzx[/127.114.158.100:55797] logged in with entity id 94 at (698.2496667384333, 9.0, 1157.7512222901044)
 [03Mar2025 00:44:06.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx joined the game
 [03Mar2025 00:44:08.907] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Fox['Fox'/299, l='ServerLevel[world]', x=684.65, y=109.00, z=1265.36]
+[03Mar2025 00:52:27.045] [Worker-Main-12/INFO] [ModernFix/]: Instantiating Mojang DFU
+[03Mar2025 00:53:59.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [Pic-A-Nic Basket?]
+[03Mar2025 00:55:58.907] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 00:55:58.907] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03Mar2025 00:58:32.887] [Worker-Main-11/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03Mar2025 00:58:51.264] [Worker-Main-13/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[03Mar2025 00:59:22.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[03Mar2025 00:59:22.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: priiimoooo<--[HERE]
+[03Mar2025 00:59:45.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Gabsterzx: primooooo
+[03Mar2025 00:59:53.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Gabsterzx> primooooooo
+[03Mar2025 01:03:48.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gabsterzx has made the advancement [The Song of the Dragons]
